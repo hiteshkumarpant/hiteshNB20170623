@@ -1,0 +1,2092 @@
+1 Same reason given before, I've been able to muddle through it, but not being a tech person it's been a challenge.
+2 It's easy to install and it updates automatically. I just have issues with working in it, I was just starting to understand how it works, and now it's different and I don't have a clue.
+3 Have used it for years spanning many versions, and really like the way it works.
+4 We still have ePO 4.5 (due to outdated hardware), and it was quite OK.  Don't know what new version would be like.
+5 very poor support
+6 Reseller
+7 Impossible product to work with.
+8 Some of the documentation seemed lacking or confusing to follow.  Like the initial install and how to get the user PW working.
+9 not really user friendly
+10 not sure if it is the best solution
+11 Poor support and slow time in troubleshooting. Poor documentation of how to use/configure product parts: essential documentation to use some functionality is fragmented in many documents without there being a general catalogue (often ignores the exis
+12 Your product update are awful and your support is lack luster
+13 Excellent way to control enterprise settings and view issues.
+14 Well if you have ePo you also have to have Virusscan. I'm really not a big fan of VirusScan anymore.
+15 While the product itself is reasonable and offers an effective level of protection, I do not believe that it represents value for money in any way.
+16 Because I'm happy
+17 It's not a good product.
+18 Only looking at ePO in this equation is tricky. It's a reasonably good product. But, customer service still impacts my opinion and McAfee's (Intel Security) customer service is probably the most horrible I've ever encountered in the enterprise settin
+19 It's very good at what it does but difficult to implement properly without causing other difficulties.
+20 Easy to manage
+21 Very stable product, great service if reached during the day. I don't like the service from India afterhours.
+22 partial very complex to administer
+23 Bad interface, although their reports are excellent
+24 Hard to configure and learn.
+25 Intel security staff know the products down to the smallest detail.
+26 Though I like the single pane of glass, the over all performance and the poor quality of the product hoses the entire thing. Didn't Intel sell off McAfee? Don't get me started on shutting down EMM...
+27 Consumes a great deal of resources
+28 because it's my opinion
+29 Problems of support could not solve.
+30 Restrictions in Russia
+31 See previous notes.
+32 Very good quality product.  Very good customer service.
+33 Product Deployment is having a poor excution result
+34 Super flexible and easy to use
+35 It seems to me a very friendly and easy-to-manage product.
+36 I am very happy with the product
+37 Good technology. Stable and reliable.
+38 Because it's rather poor in what it does.  It requires almost daily attention. It's not intuitive. For a purely Microsoft-based setup like ours, I expect it to be easy and automatic. It's not. We do revise policies and discovery regularly.
+39 Bad support on first tire.
+40 Because it seems to me a great management tool
+41 it's a good product.
+42 They'd still have to use McAfee customer service at one point or another and that's a definite problem.
+43 OK to use, but not intuitive
+44 I believe that the SIEM product is a good product, however, it needs refining and updating to make it perfect.
+45 same reason as previous - you are supposed to be protecting my PC - but are failing - when I phone for help you want even more money - no chance. I fixed it for free. thanks for nothing.
+46 ePo in combination with some products has met quite reliably.
+47 Continue to have issues with clients not responding for no reason, not updating without reason, and getting custom reports can be troublesome.
+48 I would give it a negative score if there was something lower than 0
+49 The product is seamless within our environment and does not have a large duty cycle to maintain.
+50 Effort to upgrade is high
+51 Out of all the Mcafee products at least ePO is easy to use
+52 Very good threat protection.
+53 It is a great tool to manage all of the systems in the organization, but the interface is very inconsistent and confusing.
+54 On the fence.
+55 Is a solid preboot authentication capable Drive Encryption system.  I have to fight with hardware vendor/Intel Security for issues with all new hardware.
+56 It is a clear and versatile enterprise-wide management and distribution tool.
+57 Regardless of the poor representation from the account reps, ePO is one of the best products I've worked with in my 25 years of Information Security.
+58 If the decision had been mine, I would have chosen another vendors product.
+59 Only 2 vendors in this space
+60 it's a decent product and the support process is pretty good
+61 Overall, ePO facilitates the management of systems.
+62 The tool is not easy to create rules... Need to have a better learning app.
+63 ePO is user friendly and easy to manage without training.
+64 software is overly complecated and not intuitive
+65 fulfils our needs and has multiple configuration possibilities
+66 Have usually happens to do what we want to do, but it must spend a lot of time ($) in this fight with the product to make it happen.
+67 I have been in the IT field for more than a decade and have managed countless systems.  EPO is by far the hardest to use and seems to have no thought what so ever in how things are laid out.  Complete junk.
+68 Because it's far too complicated & outdated.  Ease of management is the future!
+69 I've never had failures in the past decade
+70 for the characteristics of the product
+71 EPO has never given me problems
+72 Too often ended in data loss
+73 With ePO on site do you like yourself the best control over your infrastructure. Of course, it's like any other product also weaknesses.
+74 Because it´s the normal choice to go
+75 A good management of a bad virus program helps limited.
+76 Good product.
+77 It is not effective to new version of virus
+78 The console is too cumbersome built up and is not intuitive to operate. The automation possibilities are very good but sometimes cumbersome to set up.
+79 Relative ease of use
+80 I know less about ePO.
+81 Seldom use XP
+82 easy to manage asset deploy products
+83 Again, I want negative ratings. The 4.8 version of ePO worked relatively well, even though it was trying to control flawed McAfee products.  It also had a fairly intuitive, fairly easy-to-use interface.  The 5.x versions look great, but the major slo
+84 There are limitations of the site that do not allow it to run in Safari.
+85 This product costs a lot of money but is not finished useable, there are so many bugs and the support is quite slow (f.e. SR 4-11998712141 took 3 month to get a Workaround, SR 4-11909154211 only old software was supported, SR 4-12250187771 it loses c
+86 Due to the large environment (158,000 clients), the TIE is slow and not manageable
+87 The McAfee Agent, which is the product that allows end points to interact with ePO, is terrible.  It has MANY problems that McAfee support is unwilling to even acknowledge, let alone solve.
+88 Ease of use, reliability and support.
+89 Not an easy product to work with.
+90 Products associated with EPO
+91 I gave this rating because ePO is not intuitive and use to use.
+92 Because so far in every test it has increased load times of applications, caused applications to crash, and has caused users to come to my office brandishing pitchforks and torches....
+93 Platform has been difficult to setup and deal with.
+94 because this is my opinion!
+95 Not leading edge technology.
+96 They are an effective option for clients
+97 Because of the support
+98 See beginning; communication
+99 The appliance is capable, but signature updates are slow and sometimes ineffective. By the time we have a signature we've already fixed an emerging threat or applied compensating controls. Detection capabilities has not grown with the threat landscap
+100 Over the last 8 months the McAfee enterprise firewalls currently installed all have experienced some type of hardware fault. RMA process is not consumer friendly.
+101 McAfee is a shit
+102 excellent product
+103 Because the product lacks possibilities in terms of correlation and it's unclear, even after repeated inquiry, how this is going to change in the future.
+104 Still existing dependence on Adobe Flash, instability, lack of future vision, distance mbt competition.
+105 It does the job
+106 Experience with the the virus scanners in our operating
+107 1 console where you can manage everything and Web-based. also the gebruiksvriendelijkeid. Making queries and reports. There is new functionality added regularly.
+108 Ease of management for devices.
+109 ePO is a good toolto manage the products, to bad the products are up to par. We have IPS, DLP, VSE, Move, Storage VSE, MCP, EndPoint Encryption, and MWG, but we have had major patch release issues and renewal problems that make us think about finding
+110 ePO is very much user friendly and easy to handle. Even though it looks like confusing for first time user, once you gets used to it its very convenient.
+111 EPO is McAfees strongest product
+112 The platform needs more integration aspects so that it is more user friendly in which the user can click on direct links and have more options.
+113 have not been working with it long enough to make a different decision.
+114 Everything is managed from a single, easy-to-use console very good support above.
+115 Reliable and simple to manage
+116 Solidcore support for old OSs is poor at best as compared to when it was introduced; lots of issues with compatibility with other McAfee products and encryption; insufficient granularity in policy; poor automation of workflow around enterprise identi
+117 Ease of use, one pane of Glass.
+118 The product is ok, but the user interface and performance is lagging behind other modern security software products.
+119 The product is effective. It is also temperamental in that the same exact sequence of steps will not always resolve the issue.
+120 Quality product - excellent support, installation, configuration. McAfee has scalabilty and able to bring value to the design phase
+121 the support many times you it provides in a perfect English and will forget of it people that used Castilian
+122 It is a good solid product.
+123 IPS softwares getting hit by bugs quite often, and force us to run upgrade cycles as soon as we complete one, and its very hard with 260 IPS to perform upgrades 3-4 times a year.This shows the lack of qualtiy control and making product very unreliabl
+124 I have had mixed results with the product, as well as the support.  I was able to upgrade to the new ePO 5 console easily enough, but when I contacted support to fix a problem with alerts I was receiving I was told McAfee was not responsible for help
+125 Because it is so
+126 Aware of but not a fully user of the product
+127 Works well
+128 Highly dependent on Java
+129 Phone waiting/call closure o we can not accept that SRs during absences must simply be closed such as vacation, training etc. without editing and we then again 30-60 minutes (connection time between the hotline and the product specialist) spend work
+130 Software wise its very good. only issue Is with support
+131 good, stable product. Only reporting functionality is a bit crippled. We use MSSS to query for advanced settings.
+132 The central management for multitude of products is something that others lack. They might have some centralization, but not for such a large array of products
+133 Given recent issues with upgrading from 5.3.0 to 5.3.1 preventing functioning of the server it is very difficult to recommend ePO at this time.
+134 Dependant on the ability to integrate with their environment.
+135 Is a good tool and technology
+136 fails, is difficult to occur, does not perform the tasks
+137 It is easy to use.
+138 Many years of positive experience
+139 had some issues with it in the past
+140 Due to version upgrade few partners can support technical needs.
+141 I really like the reporting tools that ePO has, they are easy to understand, even for folks who don't do database queries. Compared to other vendors, I would recommend ePO on the reporting capabilities alone.
+142 Because we have sold it to clients
+143 At a big FSP in South Africa we had significant challenges with NDLP issues which Intel tier 3 support struggled to resolve within in an appropriate time frame.
+144 long time to respond
+145 Can be better
+146 For usability and easiness
+147 On premise EPO does centralise management of endpoints, so a good solution.
+148 1 console for all
+149 There are many cases that older agent version could not be upgraded after we upgrade to a newer version. Hence, if agent not updated, we are unable to update the related products eg. SAE, VSE, etc. There are also cases eg. SAE was upgraded to new ver
+150 Provides an excellent overview of the Park and its security, countless opportunities reports, in-depth details on computers installed, ease and speed of deployment of products
+151 Central management
+152 The user interface in Epolicy is not user friendly, functions stop working and there is no warning, ie Access protection log stopped working, this should be customised for organisations  ie system tree layouts, etc
+153 recently the rate at which new virus undetected has been on the increase, Java vulnerabilities etc, at times virus is detected then deleted, and trace log files are left , because epolicy is stand alone,  needs to be integrated with an add network ma
+154 my colleague is together with me selling ePO to our customers
+155 I am a reseller
+156 It's ok but nothing earth shattering.
+157 EPo is about the only thing that you make that isn't a complete dumpster fire.
+158 Because I don't believe in any of your products anymore. Although, I would say if someone is rolling your product they should be running ePO.
+159 In addition to the socks and redirects the lacking of logs specifically referring to evaluate
+160 Very good product
+161 very good overview
+162 We had a few issues and support was all India based and very slow to resolve the issue. Even after it got moved over to the States for support, it still took a few weeks to find a solution to high CPU usage on the EPO server.
+163 very good
+164 it works
+165 Integration of MWG is not so trivial just as it should be. Aicj feedback in DXL etc must be configured much. Also I miss many things, what goes on the desktop...
+166 EPO cumbersome to operate.  Does not update well.  Stops working properly - does not deliver updates. Clunky management interface - not very intuitive.
+167 Already stated
+168 EPO interface is absolutely not comfortable. Have you ever tried to set the width of the columns to show all the data displayed. A galley! As for setting strategies with some workstation and a server part, it is source of error. Another problem, it i
+169 This is a not at all user-friendly viellote without hyperlink interface
+170 The difficulty of administration and lack of specialists to install and support him
+171 While I've had good success I'm currently getting Windows errors Process **\OUTLOOK.EXE pid (8616) contains signed but untrusted code, but was allowed to perform a privileged operation with a McAfee driver.  I have been unable to clear this error.  C
+172 I found there is a better white listing production compare with this production. However, from the time being I am quite familiar with McAfee Application and Change Control (Solidcore) and that is why I select 5.
+173 Nice product and easy to implement
+174 The product is not convincing
+175 Very likely
+176 supposed too be the best
+177 Too difficult to due business with McAfee.
+178 Belief in the importance of increasing protection by changed risk environment. Have strong confidence in the eco-approach to Intel Security
+179 Recent issues ..
+180 The product is somewhat bulky. Upgrade from 4.x to 5.x was complex
+181 Support of products
+182 It keeps us protected for the most part. We do have infections from time to time but has improved 75% over the years.
+183 epO is very good.
+184 It facilitates the maintenance of equipment
+185 I prefer that EEFF is kept separate from EPO.
+186 Good product
+187 The future-proof technology convinced and we convince our customers
+188 might be to much for some smb
+189 There is much to know.
+190 Because it can be a pain sometimes.
+191 GUI is confused.
+192 because its a good product
+193 based my research
+194 It depends on their needs and skills.
+195 Overall, it provides an excellent single pain of glass to look at my environment for McAfee products.
+196 I like the product.
+197 Ok product, reporting could be improved though.
+198 The product seems complicated to manage. My impression is the suite needs dedicated personnel to manage it but in this day an age of IT, departments are expected to do more with less resources.
+199 It's slow.
+200 expensive, resource-intensive
+201 Satisfaction with solution and stability
+202 It is rather complex as product
+203 Compatibility issue with Outlook 2003
+204 Far I since many years she put a product
+205 For a long time customer of McAfee ePO
+206 ePO java is prone to vulnerabilities. The policy linking mechanism with solutions is problematic. HIPS maintenance is cost prohibitive. ePO agents and server are prone to reliability and vulnerability issues requiring frequent updates. Protected olde
+207 Interface not intuitive
+208 There is room for improvement on the GUI and the search function.
+209 A great product.
+210 It does not work for remote workers to receive policy upates
+211 support is very poor. have a few calls open that I haven't got a phone call or email from MacAfee in over a week.
+212 My experience with EPO present level customer issues and loss management. I think that there are products that offer greater functionality.
+213 I am a partner and would like to generate more business
+214 It doesn't catch any internal or external penetration tests!!!
+215 Best enterprise security management utility that I have used. Highly intuitive interface, the ePO always delivers the documented and expected outcomes. The documentation is spot on.
+216 It corrupts drives for which you have NO solution. Not even your password recovery will assist and you support team do ALL they can do NOT to try and resolve
+217 It is very responsive to the endpoint clients.  When a command is executed, it appears to do so in real-time.
+218 sales team is inexperienced
+219 The product works.
+220 you can easly manage all clients
+221 Various bugs in agent. Usability of the GUI that is bad.
+222 Good management of clients. Simple updates, even if they are not always properly executed.
+223 Good Product
+224 It is a good product as long as you can spend a week or two to learn how it works.
+225 too complicated
+226 best product on the market
+227 By incompatibility issues that have presented to us
+228 Only using in Device control only mode and we have seen issues where some USB devices are not blocked when they should be
+229 Have not used other products for comparison. I buffered my answer as I have not compared to other products.
+230 Not the best
+231 Meets current security requirements
+232 I have been pleased with the product. It works pretty well.
+233 support is horrible
+234 good
+235 Low detection rate, not enough dat updates
+236 No correct and detailed manuals on german
+237 Slow website, too complicated
+238 Service is about to end
+239 I have only used on premises and it is a great product
+240 everything under one roof
+241 While on prem is very stable the future is in the cloud
+242 ePO is one of the best management tools available to enterprises. I would like to see Intel Security provide more management capability for third party tools/apps.
+243 Best management tool I know for endpoint and other technologies (McAfee/Intel specific of course)
+244 Administration clearly and reliably
+245 Because Intel own it now.
+246 No comment
+247 The ePO as a tool is class size and functionality. It runs without failure and can do almost everything.
+248 The interface is not a "true windows" interface.  Column resizing, window resizing, scroll bars all don't function as they should.  As a result trying to make efficient use if rather cumbersome.
+249 I HAVE GOOD EXPERIENCE
+250 useful
+251 Too many bugs to highly recommend.
+252 I had no idea that Intel now owned EPO until the end of this survey.  Good work Intel!
+253 One interface for a number of functions, good reporting tools.
+254 Easy to use.
+255 Easy to manage
+256 Performance bad
+257 There aer some compatibility issues using sticks encrypted under one version on devices protected by another version of File & Removable Media Protection.
+258 is good product
+259 good product
+260 It is acceptable.
+261 good staff
+262 Works well and provides excellent infrastructure management.
+263 It is the only product that I use that has improved steadily over time.
+264 You no longer offer EndPoint Security SAAS
+265 The product has intolerable defects.
+266 You can improve
+267 Proven that McAfee is unreliable
+268 ePO endpoint protection did block most of the Windows 10 PCs it was installed on.
+269 Good product to Monitor an organization Data leakage
+270 Not in the business of making recommendations like that
+271 Bad Usablilty
+272 The ePo-GUI is a very complex
+273 Because the SIEM is not the easiest log correlation system to use.
+274 With our current SIEM architecture design which was architected/designed by both Mcafee and Dimension Data SIEM subject matter experts, it takes too long to do a full back (which takes days) and we cannot use the SIEM while doing a full backup and we
+275 I've used the product for a number of years now and I like it.
+276 Too complicated compared to ex. Trend Micro, should be at "easy mode" where default is chosen and go.
+277 Because I think it is very good program
+278 not intuitive and easy to mess up, I have to contact support often when trying to configure new policies/updated in EPo
+279 It is good but at times a little difficult to configure
+280 That's what you have to choose if you have many machines to monitor (in Industrial environment is all the machines often without "user" so you have to have a central place to see that it looks OK)
+281 If we "must have the McAfee/Not Antivirus" and has a number of datorwer so you have to have an overview & where does ePO. But it's not something you yourself put up but you should enlist the help of someone running off it for one (it's very jumping a
+282 It depends on, but running it styrsystens against machine so is McAfee (and sometimes Norton) the man has to bällja on that leverantären tested with (we are running McAfee "just" to when we bärjade it was the only antivirus that all our systems we
+283 because there are other products on the market
+284 Managing clients, repository management.
+285 There are definitely some quirky things about the way the agent integrates and the way product updates are performed, but overall the solution works for the AV functions we use.  The other plug-ins ended up being unused due to lack of tight integrati
+286 easy to manage
+287 becuase we can manage and maintain different security products under one management console.
+288 One point of getting tasks done and keep the overview.
+289 Very useful in connection with TIE & ePO.
+290 Because there areas where it could be improved.
+291 No issues with the product and is a necessity when managing large end node numbers
+292 by submitted incidents and have quick solution
+293 bureno
+294 The ability to quickly see the big picture and then focus on the detail
+295 I like the scope of the product
+296 just how I feel
+297 It's a good product
+298 Easy to understand how to setup a enterprise environment.
+299 I have used this product in its various versions since 1999 and it does the job extremely well.  It gives us a good level of control and reporting.
+300 We have used it for many years, we like the fact that it is the central management hub for most if not all products.  It works.
+301 It lacks some options in ePO. Above all, a way must exist to respond to existing installations.
+302 Virus Scan has been reliable and performed well
+303 Current experience has been positive
+304 work for Intel
+305 Discontinuing product is costing us a lot of money, frequent firewall issues cost us a lot of time resolving as it is not clear why programs on the white list get blocked arbtrarily. Up until the change to web console, this score would have been 7 or
+306 Stable and easy to look after.
+307 because it works
+308 Not is intuitive and requires much dedication.
+309 It is very comprehensive, but it takes a long time for a correct configuration.
+310 ePO works. I have no strong feelings about it either way.
+311 The software seems stable and has done everything we needed it to do.
+312 Not intuitive.  Hard to use.
+313 I believe it is a very good product.
+314 Not user friendly. Hard to upgrade. Product compatibility is very poor.
+315 No significant changes in functions and features for sometime, push has been to the cloud.
+316 It is a good product
+317 We had to deploy it, then redeploy it a total of four (4) times with professional services before it could be operational and functional.
+318 Because it is difficult to keep them running and configure.
+319 Not only the product can be measured, is due to value the service as a whole.
+320 I have had a good experience with the ePO. It has done its job.
+321 See previous reasons why I would not recommend this product.
+322 it is hard to find details/configuration locations within the application.  Always seems to be 6 layers down into the menus to change a setting
+323 It is needed to manage McAfee in an enterprise environment.
+324 It works.
+325 No support. Although gold shit.
+326 It is not user friendly and needs continued end support because of the frequent occurrences of product failure.
+327 because it doesnt work half the time
+328 Too many issues with tokens becoming non-functional for no apparent reason, delays in sync, unable to manage by users along with computers. Not fully integrated with Microsoft Active Directory
+329 Dissatisfied with the product
+330 Why centralized management is always to be preferred where possible to a blindly without any reports/information. The ratings on the previous pages were referred to in previous reports pre Rome agent with which I have had no contact except a greeting
+331 The output of Email Gateway puts at risk the protection of this vector with the native integration which had devices.
+332 Just too many options to easily work the system
+333 The entire EPO is of no use if the endpoint security which makes it so that is to be controlled, not what they should...
+334 current use of the product
+335 Administration too time consuming. Partial incompatibility with regard to product updates
+336 Detection Update Size
+337 reporting from the system is still a struggle
+338 I know the product well
+339 The product wins on price, so that is why I would recommend it if you are on a budget.
+340 EPO is very hard to learn.  It took me long to understand it.  All technical support wants to do is send you long PDF documents to read that make NO sense.  Why you have not created a simple 10 step process to set it up and get running is just crazy.
+341 Do not serve the cause of all the problems about the disorder. McAfee logo appears on the first screen customers like McAfee does not prove that a problem with McAfee to recognize as a problem.
+342 Something can be "best" without actually being "good". Clunky, slow, counterintuitive, and with the WORST reporting ever, ePO still gives you the ability to manage scaled environment anti virus and end point protection products better than anyone els
+343 the best of the best
+344 Problems with agent upgrades
+345 It's the best endpoint protection management tool I have ever used
+346 No support
+347 No support
+348 complex
+349 It is an indispensable tool for the use and management of Intel products.
+350 while i like the concept the product's organization is somewhat disjointed. It's not intuitive. Deployment links should be a link under deployment and easily to identify.
+351 The product has one of the worst user interfaces I've ever seen.  It is difficult install and maintain.  It is difficult to get actionable intelligence out of it.
+352 See comments before. I want my security products from one supplier.
+353 System performance is very low after installing HDLP
+354 Performance issues on the endpoint
+355 Blue screens on startup with Windows 10 (Version 9.4). No alerts to this problem. Breaks Chrome (Version 10.0). No advice as to when a fix will be released.
+356 For its stability and the team of technical consultations
+357 For telephone support
+358 By good phone support
+359 It's a very good probability.
+360 1. Upgrade issues; 2. Problems of instability; 3. Random crashes; 4. correlation engine problems 5. Problems of redundancy; 6. Several new bugs the new version; 7. load problems; 8. Lack of documentation updated; 9. Delay of the engineering and devel
+361 The tool could also log in and consequently generate reports with tb files are migrated to the station.
+362 Protection rules are flexible.
+363 Mainly due to product support issue
+364 Unstable agent and unreliable updating/product deployment.
+365 Epo works.
+366 Very little necessary administration. Good way to update.
+367 We are satisfied.
+368 Your lagging support for Windows 10 leads me to believe that I can expect the same behavior in the future.
+369 Very good addition to the other McAfee products.
+370 Its a good product that does  what it is intended to do.
+371 ePo is not manageable without extensive knowledge. Unfortunately, there is no appropriate alternative on the market.
+372 zero day protection with TIE, Active Response, MWG and DAC
+373 easy access to environment info and details
+374 The company that I was directing used Mc Afee for all of these agencies. In retirement I still personally.
+375 it is discontinued
+376 Easy to use.
+377 maximum performance and especially modularity...
+378 Very confusing user interface
+379 Policy Management not very easy
+380 difficult-to-learn web-admin-GUI
+381 Opaque Benutzeroberfläcvhe of the Admin Web GUI
+382 Bad product
+383 Poorly laid out interface
+384 My feeling
+385 nothing but issues with it
+386 Found it difficult to use, understand and configure
+387 To much customization to manage every day tasks.
+388 Too much customization required to perform common tasks. Would like to see a simplified version for medium size Orgs.
+389 There are better products
+390 See reply to question 1
+391 because I'm happy
+392 It appears to work well, but I'm working in a vacuum so I have no idea what else might be out there anymore.
+393 Because I like it, but it's not perfect.
+394 Due to the ensuing disorders business loss risk
+395 Integration points with TIE are not working such as IPS and MWG not sending files properly to it and large amounts of false positives with TIE detections regardless of ATD scans.
+396 great console... own logs(orion) could be more user freindly
+397 best product expirience
+398 I don't use it myself. Our local reseller takes care of it.
+399 Business and reliable product
+400 nice tool of supervision
+401 Only the logging is bad.
+402 Fairly easy to rollout, once its setup correctly it requires little ongoing management
+403 EPO is the The Best
+404 Because of their ease of use.
+405 It is too difficult to update, little to no logging, on any given day, my four servers may have one, two three or four different DAT version, no easy way to update the definitions on each machine, no easy way to update software.  I am not sure if I a
+406 Fair; middle of the road.   don't know if it's working or not.  I don't get notified when my licenses has or is about to expire.  I have to check every day to see it habs automatically updated to the latest DAT.  Cant just download a DAT and install
+407 By the good results that we have obtained
+408 Good solution
+409 Performance
+410 Applicability in the Mac environment
+411 Works
+412 more would be lying
+413 not engough details provided in the reports, missing some thirdparty integration (it's currently a Mcafee to mcafee device ... )
+414 Good reputation Help and technical support Professional.
+415 I believe an independent interface that uses an as independent solution such as DXL tomorrow is the best choice. Freedom has no price!
+416 Simple functional and synthetic
+417 It just works as expected
+418 Good Platform for central mcafee managment
+419 Without specific reason.
+420 My opinion
+421 You shoved it.
+422 Product does not update well and next to imposable to uninstall. The cloud base console is difficult to work with and not easy understood.
+423 very good
+424 It is a lot to learn how to setup.
+425 Streamlines the day-to-day
+426 See the first question.
+427 The handling is very opaque for a layman. It is uncertain whether to do the right thing. A documentation of the program we have never received, a help option from the program also does not
+428 Because really it is a good product. The point to be questioned is his price.
+429 Sometimes AV is not the best in detection
+430 After the negative experiences of the past few months, I'm unsure whether the product is still recommended
+431 The product meets my needs
+432 Hard to manage without seeing Server Firewall logs in a EPO management.  Should make more availability to port Server Firewall logs info into Splunk.  I Was able to do this but NO ONE on McAfee technical support was willing to help to Just give me co
+433 Drive Encryption is a good product overall. I would like to see McAfee work with hardware vendors to expand compatibility with non-standard hardware such as tablets. I believe the issue here is around UEFI touch drivers. I would like to see support f
+434 because i am a reseller.
+435 Its user friendly and have overall visibility of the environment.
+436 The console has a very intuitive administration facility, supporting the management of users and workstations.
+437 Due to recent problems with non detection of certain viruses ... and competition has detected no major problems.
+438 for example you cannot set scheduled scanning according to timezones. In such cases many workstations are being scanned during working/core hours in different time zone.
+439 No service
+440 Functional and efficient. Environment complicated to set up and manage.
+441 I honestly believe it is unequaled in the industry as far as a security management solution.
+442 The product is OK however, the fragmentation level of end point systems requires a lot of resource effort to manage and maintain, add this to the complex dependencies of specific patch and hotfix levels and poor support does not make for an over all
+443 General impression is a complete solution that is stable and requires specialist knowledge is a total solution
+444 The management environment is a must in order to stay in control. Makes no judgment about the product, it is the product of Intel management so the only choice.
+445 The quality took something off in recent years.
+446 The sand box solution is very useful, but not exactly cost effective as a supplement
+447 ATD is a good suitable system to check unknown files
+448 Great way to improve the security, but also a very high price.
+449 I like the product.
+450 batter product in market. updates are not that quick. some time its doesn't recognise the threat where as others does and provide related support.
+451 there are more Cloud based competitor where as McAfee does not give such product integration the mcafee cloud working on its own.
+452 Easy to manage
+453 Support is lacking.
+454 Small business with no IT professional it appears over complicated to navigate andnot as user friendly as the old SAAS endpoint
+455 Easy installation in existing ePO system
+456 Not compatible with Xp
+457 Most outstanding security console on the market
+458 Due to the fact that the product is good.
+459 As I wrote earlier, it works great for my needs
+460 DLP has increased security for MTP devices.
+461 user interface is not friendly
+462 Bulkiest, most illogical, incomprehensible system intuitively. A bunch of reports-select hard. Absence of predefined settings for small and medium-sized enterprises. From the position-office workstation or remote area. Server or computer. I can cite
+463 Difficulties in development and upgrading the product. Surprise with ePolicy Orchestrator administration.
+464 While the idea behind the ePO is nice, the execution lacks in terms of functionality, usability and performance
+465 The grave in the form of a central control module installation and ease of use by type
+466 Easy-to-use, referred to as. ..
+467 There are no other products on this level. Unfortunately almost no competitors.
+468 OK, service problems
+469 Friendly, convenient
+470 easy to use and effective
+471 Overall, we are satisfied with ePO, though some things are needlessly complex and is upgrading to a new version without support of our supplier generally not recommended.
+472 It can improve
+473 Solid offering that does what it claimes
+474 support - HORRIBLE
+475 quite difficult to use and rollout of updates is a bit hit and miss
+476 Newer versions are not as responsive.  Updates pushed out fail about 10% and require visits to the PC/servers.
+477 The technical aspects of the product and DoD contract make it a solid choice.  However, as previously mentioned the support and documentation even with platinum support is very poor.
+478 Doesn't work in IE and Firefox
+479 It is incomplete in the management of machines, it should be possible to collect information that the MER collection, remotely by EPO. It has to be possible to solve problems without having to access the physical workstation or remotely. The station
+480 Your product is not updated (ransomware protection is not there) and we are not getting any support from your end.
+481 Good product but very slow to operate and cluttering up the menu!
+482 Good product weak surface!
+483 Used for past 15 years with just minor issues
+484 Its a nightmare that was foisted on us by managment! Anti virus/Group policy management in this day and age, its a joke. We've been ravaged by several viruses that McAfee and associated apps never even blinked at, hit by cryptoviruses etc...
+485 doesnt
+486 because we are right, never created problems, so we think it is a reliable product
+487 Because I feel good, I don't know other competitor products, so I could compare the service.
+488 Is still to be recognized.
+489 He didn't work at the time, for a very long time!
+490 ease of user and very nice reporting features
+491 Reflects my overall evaluation of the product
+492 Not particularly negative or very positive aspects.
+493 Because working with it.
+494 Because of the stability of the solution even managing a large number of endpoints
+495 The cost of maintaining the ePO console would reduce the cases where I would recommend it, depending on the size of enterprise that is asking.
+496 ePO is an excellent tool. The main concern I have with the product is around the complicated upgrade paths for all the various products.
+497 Very effective tool.
+498 Difficulties with Windows 10 and lack of knowledgeable support
+499 See my previous answer - when is this survey going to end?
+500 Logs and reporting are not very intuitive.
+501 I tried to UNinstall it...would never want someone to have that experience.
+502 As the product and the support have convinced me!
+503 Provides good protection
+504 Good product
+505 Experience dictates
+506 It is hopelessly over-complex and unintuitive for SME installations. It may have the flexibility needed for large corporates, but in our market space it is a nightmare to use and is absolutely inappropriate. Delivery of protection software by the Age
+507 Unintuitive, over complex to configure basic policies and profiles, slow to deliver installations to endpoints. Dreadful in every respect.
+508 Reliable, stable, secure, intuitive for its management.
+509 McAfee finds too little viruses/threats and needs still too many resources from the PC.
+510 Is quite alternative on the market and if you walk a working version has little trouble!
+511 There seems to be no better solution on the market, still regard the ePo as inadequate. There are many defects in the Profukt, sometimes wait for months due to a patch until you can perform an upgrade, the installation and update of re-fabrication is
+512 ePO is very good on client management
+513 complex installation
+514 Security
+515 very good product and stable
+516 Product performs as expected.
+517 Product works fine, but others tell me that some other products are superior.
+518 After evolution is a good product
+519 happy for the support
+520 Management interface isn't very easy to use.
+521 I have had an open ticket with support for over a month to try to get our MWG syncing properly with our SaaS
+522 Overall experience while deploying was not so good. Face so many trouble/challenges post deployment. Support system is very pathetic/slow. Pre-Sales team is not so qualified and not interested in customer needs.
+523 slow
+524 I don't use it any more
+525 I just really don't care for the product enough to recommend it. The reporting is great, but other than that take it or leave it.
+526 Based on the poor quality of support received
+527 Other products out there that are equal or better for certain applications
+528 By usability issues
+529 Feature and Services
+530 Once you get past the installation issues, it is easy to maintain and use
+531 the functionality of updating and upgrading the software with it is worth the headache of setting it up. My only complaint was the lack of documentation on setting it EPO.
+532 Again - the support is terrible - I have been a loyal customer for over 15 years
+533 Easy to manage
+534 As per experience
+535 Because as device protection is excellent, but in the part of the filtering of information always had some issues that not achieve solve.
+536 i was primarily responsible for deploying Antivirus product on linux systems and overall exp with ePO was not good at all from installing the agent remotely to setting up scanning it just failed miserablly. Bugs, issues and incompatabilities were fou
+537 I have been struggling with ePO to install Agent 5.0.2 and VSEL on linux clients for a while. All the required ports listed in McAfee docs are open at network level can connect to ePO from client and client to ePO but installation of the software sti
+538 There is no real use case, as Antivirus as a software on Linux is useless when implementing the basic Linux security features.
+539 I works but is a little cumbersome to use.
+540 good product of document security
+541 I think it is hard to use.  Not intuitive.
+542 eaase of use
+543 It is a very good product for an enterprise installation and is reliable
+544 Dependable product that takes little maintenance
+545 User Friendly
+546 Product itself is neither good nor bad, but very little intuitive
+547 Elaborately, little intuitive, not reliably
+548 I'm changed 6 months ago to Panda endpoint security and will also bring all of my McAfee customers to Panda
+549 Chicken
+550 I don't deal with a lot of people in this area.
+551 Does not cater for non-Windows architecture
+552 We have had problems with the McAfee account team answering pre-sales and renewal questions.  They also give this same problem to our VAR
+553 Performance and robust security built for how we work. This scan faster and delivers comprehensive security to guard against threats.
+554 its hangs frequently.
+555 It has been nothing but problems for us
+556 It is a resource hog that cannot be controlled.. support's answer.... just exclude the entire program files directory.  Yeah thats a good idea!
+557 In some scenarios it works very well. However, there are a few very critical areas that it doesn't meet our needs. Specifically, the lack of a clear Product Enhancement Request process combined with the inability for customers to write custom parsers
+558 How I already say is hard to recover data in a corrupt drive
+559 Poor support from the sales and honoring quote after receiving our PO for Professional Services.
+560 Really like the extensibility, and the power of the tool.
+561 I do not give product recommendations to others. It is a personal policy.
+562 Compared to ESET, such as order processing, product is too complicated.
+563 -Slow -Failed to install And cannot be installed without uninstalling the old product and And can't want to manage content (not sure where) No reply so do not contact support And, from the worst.
+564 There can be a confusing UI
+565 Company policy because it
+566 Because the problem is not particularly
+567 Easy to handle
+568 Little Japan language materials
+569 High impact to the application
+570 Problems often
+571 Please listen to my
+572 For neither, nor bad.
+573 Not to mention the benefits for
+574 I have received the first question and question.
+575 Support quality is poor compared to other similar products.
+576 Too complicated
+577 Behavior is not stable. Equipment replacement when migration is difficult.
+578 The benefits so you know how to teach.
+579 For street use, aimed at the.
+580 So I've never actually used
+581 Not recommended by friends, colleagues
+582 Since he had towards your product quickly detects viruses that were using third-party products.
+583 Unable to update
+584 Because of advance request
+585 Third-party products manage product functionality, ease of use than. Also, without obstructions and running, no problem
+586 Cannot be recommended for
+587 Because neither satisfied nor dissatisfied
+588 Does not detect the new viruses too.
+589 For the very unclear
+590 Easier to understand than others (trend micro), easy instructions for uninstalling the management client.
+591 1. How to set up it かりず difficult. 2. That can be frustrating to the installation on the client.
+592 From the functionality has been added by the VSE. (There are options. Should be incorporated into the standard functionality)
+593 When you scan-intensive
+594 Management complexity
+595 From the encryption purposes as you can withstand the operation seems to be
+596 It's cumbersome, clunky, and feels outdates. I'd scrap it and start over.
+597 McAfee is a resource hog that I cannot afford to feed.
+598 Simple product that works well, easily configurable.
+599 Is a good solution but should have some improvements in the part of the generation of those reports and of them queries
+600 it is not the easiest to use, nor is it the most difficult it needs an overhaul to be honest.
+601 Decent product that tries to do what it can to mitigate the threat landscape
+602 so far this is the best in the market for one place to control and manage all of your security. It does give the big picture that I need for managing 120,000 computers.
+603 after it is setup and running well it is straight forward to use it   it does need some changes to the database
+604 See last question
+605 There are certainly free encryption software that meet the needs of private for friends and colleagues.
+606 It suffers from the performance for the use of the product. Almost every time there are problems of a different nature. Those who have to do products with other Intel (virus scanners) are quite embarrassing
+607 The management console is not so bad.
+608 For the existing agreements to advance was poorly
+609 Despite being a good product, consider a little complex his administration.
+610 Right strategy.
+611 UI has not improved on one specific point: MQM Admin  Quarantine management. It would really improve usability if the results window for Quarantined items where adjustable. Now it is locked in a fra.
+612 had a full pot if it was possible to do live forensics
+613 good product
+614 great product
+615 i am using ePolicy Orchestrator from 2010. Now i am using 5.2 version.
+616 In the context of the POC much the ATD through Abstürtze and not contacts on. In comparison to the competitors, the ATD in any respect could win a point.
+617 Failed to upgrade our ePO with Professional Services remote support 3 times and still ongoing.
+618 We have 3 failed attempts to upgrade our EPO, involving enterprise and professional support and a significant amount of time and it's still not upgraded. I'd be very reluctant to recommend a product where a basic upgrade causes so many issues. We hav
+619 Once it's stable it's a very good and responsive product, very flexible and the reporting is extremely good.
+620 it has limitation on end point encryption.
+621 Ease of use
+622 sale of stonesoft
+623 to much of a headache.
+624 Out of date product
+625 Have all kinds of problem with it corrupting systems as they try to update to windows 10.
+626 Compare with leading security vendors, do not feel the advantage
+627 I have been an advocate of McAfee for nearly 15years and have it running in several environments. The new Endpoint product didn't upgrade well, has a poor Admin C-panel, and has lost it's ease to configure.
+628 Poor service
+629 The system has been too confusing and inconsistent for the last couple of years.
+630 ePO is heavy handed on resources, its UI is mostly non intuitive, and it can do little to manage remote clients when they get into trouble (which happens often).
+631 EPO Softwaremaanger not work properly change of ownership McAfee documentation mostly in English (bad for the German market), too often.
+632 Excellent Performance.
+633 The cONOLE is OK, but the Performancde of the Clinets on the Worksations not
+634 Endpoint security slows down my computer and doesn't do a good job protecting me from viruses and it is really bad at removing viruses. The way it slows down my machine makes me think that I'd rather have a virus than deal with McAfee.
+635 Very hard to use.
+636 Easy to use and provide good security
+637 We have limitation on apps
+638 Depends on the specific requirements, because the Resourcenanforderungen are quite high.
+639 Making changes to the policies is not intuitive, if someone hadn't shown me where to look I doubt I would have ever found it. Once you do find it the policies are organized in an odd way.
+640 Again, terrible service!
+641 Resellers (with Mcafee related building vendor) of the worst. When adding to an earlier version without setting relevant procedures presented, be set to the parameter sheet Street, running to set in, we install)
+642 Other may have experience with other product
+643 is very practical for your administration
+644 Ability to repair a damaged windows install or machine with a corrupted hard drive is nearly impossible in some cases.  There should be an easier way to access the data on the drive with authorized keys & credentials without having to boot up via CD,
+645 Effective when compared with other market leaders through its best features
+646 the response from the sales team directly from Intel security is very poor
+647 On the
+648 ePO is very easy to manage and trustworthy.
+649 product too cumbersome
+650 it corrupted a MacBook (BootCamp partition).  Since it doesn't work on Mac hardware, it should have detected Mac and then it should have exited. Instead it encrypted the MacBook, and then bricked the device
+651 It's a great product
+652 Satisfaction
+653 There are less reporting part which should be their while check security incident in premises.
+654 At the moment I haven't verified all the functionality and on some there are issues ASAP.
+655 not suitable for use in our environment for 2 years
+656 very bad experiences in practice. Incompatibilities with installed programs. for example: Lotus Notes
+657 Bugs in the new version a lot
+658 not that satisfied
+659 I think it is easy to learn
+660 Product is almost perfect
+661 One of the few top options available out there.
+662 see previous notes
+663 So-so.
+664 Use, no problems.
+665 Not including Update become cumbersome.
+666 You couldn't fix our issues for over a period of 2 months. No one in support was willing to help with our license number. No one in support could help us understand about our forced upgrade. No one is support could help us work with Dell Kace. No acc
+667 So far effectively meets the needs that I ask that antivirus. I've never had a problem on any computer that run this antivirus.
+668 Very satisfied with the product.
+669 I am convinced by the product and like working with the ePO.
+670 it's nice
+671 Because it has been a great product
+672 Again learning curve steep...lots of functionality takes time to learn understand and use them
+673 There is no simple documentation for IT specialist. Including examples.
+674 I like it, however there appears to be some problems with our office management software and compatibility
+675 I have used this product through the Virex - VirusScan - McAfee Endpoint Security for Mac evolution. My experience has always been positive.
+676 My experience with protection for Macs that began years ago with Virex.
+677 Because we have abandoned existing licences as a dead loss
+678 Great support
+679 It is incompatible with the reader of fingerprints of laptops HP
+680 Its use is very transparent to the user
+681 Not the market leader and is far behind the other vendors
+682 Poor support despite gold status. Very long operating times up to the solution, often unnecessary inquiries. Incompetent staff.
+683 The service from McAfee is simply bad, despite premium support requests will not be processed and take several weeks!
+684 On the whole, good program.
+685 EPO as a product is good but when issue comes up again support is an issue, many time it also leads to bug in the product
+686 No comments.
+687 have many installations in use
+688 Since I inherited the platform, I've seen nothing but problems. When trying to correct some of the issues I've had absolutely horrible customer support. So I wouldn't recommend this product because I wouldn't want anyone to deal with that.
+689 Stability
+690 not sure
+691 This survey is too long! We were using the Saas based solution and renewed to the new Saas based solution..  We didn't hear about the selling of the old platform until it was too late to migrate over to your new Saas based platform.  by then we'd alr
+692 I received an alert that our license was about to expire for McAfee SaaS and that all I had to do was renew online and everything would be all set.  I spent around $1500 or so, renewed, logged into my site, and it still showed that I needed to renew!
+693 From the seems to excels in performance, reliability, etc.
+694 Seems to work fine
+695 Because lately I am having a few problems with some equipment and installations of the VirusScan.
+696 The interface isn't  Admin friendly :)
+697 We classify your software as malware. It is damaging, difficult to safely remove and impossible to return a machine to a clean operating state without a complete rebuild.
+698 current experience and much better products on the market
+699 "how to wreck a good technology" by Inel
+700 Easy to manage clients from centralized.
+701 easy to use/manage, h/w is reliable
+702 Complex config
+703 Because teams are left unemployed when they are scanning and I have major complaints from users.
+704 Not sure if it will be a supported product in the future.
+705 Reliable, Compatible and Robust
+706 Deployment of the latest version is unreliable.  I have had major issues upgrading.  We are actively looking at replacing ePO/VirusScan with a different solution.
+707 A real headache in moving to new Server, with marginal help.  Once it was messes up way to expensive to get professional services to help. EPO is way to complicated.   Our new product is much easier to use, and the professional help is much cheaper.
+708 very complicated to install, configure and migrate to another server.   Support at this time frame is very hard to get in touch with.
+709 its a good product
+710 I am very happy with it.
+711 Not sold 100% best solution
+712 Are many good features on the ePO, but also some of what I don't like.
+713 Very little information on future roadmaps or product enhancements
+714 Product performance
+715 Poor support contact and resolution follow-up
+716 I had the boot file get corrupted on several occasions which required a total system refresh and loss of all data
+717 Current issues with integration, and the issue that normal features on other like products is a product enhancement with ePO
+718 does not seem to have kept up with the latest threats
+719 After an update was the whole PC park no longer linked with the EPO server. Many of these machines were not or not optimally secured. The own IT Department has to take care of all machines manually with only minimal support in this process. One was u
+720 See previous slide.  Product may be good, but the sales team are NOT.
+721 And difficult to use
+722 Been using for years, great product
+723 6 years experience with ePO
+724 the best security admin server
+725 I am admin of epo and therefore I control well the product
+726 My experience with your company regarding another one of your products was poisonous
+727 Little flexibility in configuring update deployment
+728 gartner
+729 Its something many corporations need
+730 Because it is a very effective tool at identifying previously unknown malware entering the environment.
+731 Ease of use
+732 Because it's very hard to learn and the documentation is not detailed enough.
+733 I can recommend the products with us without hesitation. It does what it is supposed to
+734 working well
+735 we like the product.
+736 its good
+737 reasonably satisfied with
+738 The cost/benefit is > 1. It should be improved. The product is necessary and obligatory for companies.
+739 Good
+740 I feel there are better endpoint security software out there.
+741 Unparalleled management and reporting
+742 It slows my pc to a crawl.
+743 Centralized management and reporting. Very flexible. API - interface (often is this but poorly documented).
+744 Excellent product
+745 Lack of fingerprinting. False positives drive this market and using regex and single database fields are not meeting the need.
+746 Product is confusing, overly difficult to navigate, difficult to find what is needed, and, worst of all, it's a mcafee product.
+747 It's the least intuitive application I've ever used. It's difficult to train personnel how to use ePO. The opportunity for misconfiguration is greatly increased. Finding the function or information you're looking for is frustratingly difficult and ti
+748 my friend or colleagues work in the same company.
+749 it is good but not the best
+750 NDLP failed to meet many of the requirements for which it was architected.  Professional services repeatedly blamed shortcomings in the suite on upstream/downstream architecture.  Responsibility was left on my staff to prove that issues and bottlenec
+751 Good tool and easy to learn
+752 Seems other tools are easier and more stable to implement- more light and less problematical
+753 It is not intuitive, lacks basic functionality that would make managing policies much easier (for example, copying exclusions from one policy to another without duplicating the entire policy).
+754 You have to have it to manage your environment regardless of its issues
+755 I felt it best reflected my intent.
+756 Because it is not for the faint of heart.  It takes a good amount of backend support to ensure that it functions as it should.
+757 Reliable product which meets our expectations in the protection of posts users (not servers)
+758 I don't talk to people about their anti-virus needs, and if I did I would recommend Sophos
+759 Support is awful
+760 It's not the best product out there - IMHO
+761 ePO is complicated and unintuitive to a Caucasian American mindset, and I'm used to the UIs of a  myriad of security systems.  What I need to do in ePO is monitor the system on at minimum a daily basis to ensure that ePO and the endpoint agents it's
+762 Sometimes it works, other times it does not work. Sometimes encryption randomly uses its users with leaves the customer in a huge bind when the product was working the day before. LONG hold times with support, poor customer service. Had to wipe 5 or
+763 The reporting info on our desktop is not there that I can find. I can go to a website. seems like extra steps. why not have a web link on the system?
+764 SSL Inspection is not compatible with latest versions of TLS protocol. Documentation is inaccurate and not updated with latest release. KB site search return a great amount of useless informations, most of times pointing to documentation. T1 support
+765 I don't make recommendations as then if someone gets that and is not satisfied, I feel responsible.
+766 Because it is the only business level security sw that I know.
+767 I am pretty happy with ePO management
+768 Poor performance and quality of product.  Tech support worst in business
+769 good product
+770 Reliable, trusted product.
+771 A good quality product. Very convenient for use inside the organization with great infrastructure.
+772 it is good.
+773 I spend way too much time in ePO when it should be more automated.
+774 It has always been a chore to keep the EPO updated and deploy the framework to PCs. There are always problems and performance is always very poor no matter what version we have used.
+775 We do not give it better because no us protegéis renewals
+776 easy to implement
+777 I like the product
+778 Reliable software
+779 Extremely poor service ... impossible to get through on the phones
+780 It's very complicated and almost impossible to upgrade if you get a few versions behind.  Support from Intel/McAfee is horrible.
+781 Not intuitive
+782 Have no major issue with it for many years.
+783 It's not very user friendly, most of the time automated tasks hangup and a lot of work and effort from the systems administrators is needed to maintain the EPO working in good condition.
+784 The product has served us well over the years and the ability to interact with all of our McAfee suite of products via a single pane of glass is paramount.
+785 clunky UI, can't copy paste in spots you should be able to, some small random parts don't work in some browsers, deploying agents is unreliable, logs pile up with clutter and there is no good way to filter it out while keeping useful logs, duplicate
+786 Because it's a pain to administer and upgrade. It uses a lot of resources and causes conflicts. What bothers me the most is that you have to add exclusions for the other McAfee products you have installed when it should be intelligent enough to add t
+787 See conversation with your support
+788 quite a few bugs
+789 ePO is a solid product for a look at everything you have for Intel Security products through a single page.
+790 It is a good product. It is a single pane of glass to view information for all of our Intel Security products.
+791 Endpoint works well. Sadly the email protection you use to offer with it does not - I guess that is why you dropping it.
+792 Provides reporting we need. U.S. based corporation.
+793 We make use of this product for a long time and have never had problems.
+794 User-friendly and reliable
+795 po prostu to dobre narzędzie, z którego można korzystać
+796 As mentioned previously, has become more difficult to administer.  Not intuitive.  Difficult to find information.  Knowledgebase very difficult to zero in on information.
+797 Solidcore is a great security application.
+798 ePO is one of the most complicated and cumbersome anti-virus consoles we have ever seen.  Reporting is absolutely horrible.  It would be 100 times better to remove the McAfee reporting and switch it to SQL reporting services.  Looking for and applyin
+799 Cannot manage your own license
+800 It's a good product.
+801 It took 2 years to get it operational and stable
+802 Only need to have EPO is for Intel products. Highly prefer products that directly integrate with active directory rather than require secondary servers, services, firewall rules.
+803 have had many inconvenient with the new version of them antivirus and it new platform them equipment is again very unstable the antivirus is takes much for boot and is consumes all them resources the team and arrives the time in which the antivirus n
+804 meet our requirements and wishes
+805 Could not install the McAfee products or didn't work, access to the customers account via the Web is actually not given, is an entirely bad product from a very bad manufacturer. Too bad that Intel also buys such a crap.
+806 Intel Security Support Notification - SR # <4-13413019891>
+807 We have a lot of Club problem encountered when migrating from Saas to EPO
+808 I'm not completely satisfied with it.
+809 soy partner
+810 It works, but does not compete well with other vendors offerings
+811 Correct
+812 ePolicy is extremely difficult to administrate unless it is your full time job
+813 It's convoluted in it's design for beginners and tedious for experienced security professionals. It is not an application you can just sit down (without having prior experience with McAfee) and navigate through with ease.
+814 one thing I liked in ePO is scalability with endpoints and reporting. Upgrading of ePO is tedious
+815 I am giving this rating because the ease of managing the system. I do think that a class to administer the EPO server is very important before recommending.
+816 Operation screen is hard to understand.
+817 Easy to use
+818 Was very difficult to console administration and never had a stand clear
+819 By that is a platform complex of understand, maybe they should tenercomo guide it's ESET.
+820 The product is fully fledged and able to deliver on all levels. Unfortunately, it is far more expensive than competitors '.
+821 Very good centralized system
+822 It depends on the use cases defined by the business and version of DLP. There were significant gaps with the use cases we chose.
+823 single console for reporting of large number of devices
+824 It depends on the sector and type of security required in the enterprise
+825 Terrible customer support. Many of my licences disappeared. Intel couldn't resolve.
+826 The transition from earlier SaaS product was so bad.
+827 Configuration and when call support are not authorized to collaborate in this part.
+828 believe it can be improved the management UI
+829 OCR Reader
+830 tool in the process of knowledge
+831 Using another product
+832 Its a great product in case working experience and features.
+833 Perhaps the option in Cloud will be better.
+834 The fact that the new version does not support Solaris, HP-UX, AIX, or other non-Linux unix variants.
+835 I could only say "it's ok"...
+836 I have been using McAffee Security for about 8 years. I tried other products, and nothing ever compared to the security I had with McAffee- so I switched back. It was the biggest mistake! I have had nothing but trouble. I cant get my issues fixed and
+837 Good Product, Poor Service.
+838 I would most likely recommend McAfee All Access, because you can install it on other computers.
+839 Because it is reliable and can be integrated with intel tools
+840 Stable product of easy management
+841 Good use
+842 Is used for more information is not
+843 It is the glue that holds everything together!
+844 Its an outstanding product
+845 Primarily because of my lack of familiarity with the product.  It would be cool to be proactively provided with whitepapers detailing best practices and how to roll out.
+846 Not sure about the AV market at present
+847 Because of the problems with the core service. What causes because you must completely reinstall the HIP
+848 Good experiences made in the MiFir period
+849 ease of use and practicality
+850 Because we've had an outstanding problem getting it to work on some of our new Dells and it's taking forever to get it to work.
+851 By the sturdy which is the application
+852 Is a good platform, but some gaps in distribution and update make frequent occurrences of outdated equipment.
+853 It would take a full-time staff who administered ePo.
+854 Leading product in the market
+855 It is a good tool for monitoring and prevention of information leakage
+856 Easy to use. Common sense product deployment. Great reporting capabilities. Nice featured tool for Network Administrator to utilize.
+857 It is a very good way to manage deployment of the Virus Scan product and keeps tabs on licenses.
+858 Reliable, easy and productive.
+859 Its easy to use and understand.
+860 Reseller service and knowledge is bad, McAfee 1st level support not good enough
+861 It a great product. Educational and training need to be thoughts.
+862 just doesn't work on a remote share that be encrypted is on folder level
+863 Excellent product
+864 good benefits
+865 Easy to manage but needs to have trained about it.
+866 I have no belief Intel security  after acquisition of McAfee
+867 I trust EPO even though another company who I do not trust has bought it.  Don't change it please.  I have been using it since version 2
+868 Confusing UI, and AV is full of giltches, and support is bad
+869 It's a good product.  Didn't give it a 10 only b/c it takes an HOUR to get anyone on a support call if you need help that's only a 3 urgency level.
+870 Quality and service
+871 Based on fair assessment
+872 Support poorly, products often incorrectly or poorly documented
+873 Are configured on the console for the first time and soon teams time must be reset again teams
+874 It is a competent interfaces/systems but not entirely intuitive
+875 Don't think it is particularly good.
+876 Is not completely satisfied
+877 It is a good product
+878 performance issues, usability
+879 good effectiveness
+880 ePO suite when configured optimally ensures to protect all devices connected to it.
+881 easy... no maintenance
+882 Its been discontinued
+883 because you asked
+884 Support that sucks. Patches that get released are untested and break things. Example SR # <4-13717634681>
+885 User friendly console
+886 We know that the solution works properly
+887 Performance and cost performance
+888 We've had a few problems getting all of our devices to receive updated DATs.
+889 I think ePO is a very solid product. I never give 10's.
+890 McAfee sucks...
+891 I find it great to use.
+892 Not only is your product scheduled for End of Life, the product's performance has severely tanked ever since the EoL was announced.
+893 s.o.
+894 Too complicated and hard to setup for what it does.
+895 The interface is since version 4 have become more transparent, but it is sometimes still look for things.
+896 From my recent experiences. Lack of customer service. Inability to uninstall. Offshore call center.
+897 So so
+898 It is built for the enterprise.  It makes managing multiple endpoint very easy.
+899 We recently upgraded to the use of the new SysCore product.  We initially had issues and McAfee denied it being an issue with the product any of there products.  I even spoke to the HIPs Product manager at McAfee Focus last year and he denied any iss
+900 The administration interface too limited the use of the product for someone who cannot devote himself 100% of his time
+901 Endpoint security is something we recommend but we have a better solution from McAfee/Intel Security - we prefer VirusScan Enterprise for many reasons.
+902 MTA is missing for E-Mail
+903 It is a very good product with lots of potential.
+904 Easy installation to endpoint turnaround (issues aside)
+905 we have some issues with the product, rules are not intuitive, it's quite difficult to understand the logic behind the rules, anything extra like block page requires good HTML understanding.
+906 It's too slow.
+907 Inability to provide onscreen keyboard solution for Panasonic CF19 tablet
+908 Most difficult program I have ever tried to instal and use. Very disappointed.
+909 The same as the answer to the first question.
+910 it is the best SIEM I know. I know a lot of them!
+911 ePo cloud is for targeted customers. For most, On-Premise is still the best option. ePo cloud is a good solution for those without any hardware to install the console & those without any IT guy, with a need to have the management delegated.
+912 I am a Business Analyst that helps developers remediate issues called out by PEN Testers that are, I suppose, using the Intel Security/McAfee Production. Not sure exactly why I received this survey
+913 ePO makes it easy to manage endpoints, especially with an information security team on the lean side in regards to staffing
+914 Product is good but support is not good
+915 You love what you know.
+916 Due to the weak support provided
+917 If you have a more purely windows shop this product line is well suited. If you are more diverse than that the signature releases and focus of the signatures lacks significant value.  Somewhat difficult to deploy our own signatures at a level of high
+918 The product still seems somewhat immature.
+919 ease of use and reports
+920 Some viruses are not getting clean
+921 good product
+922 Customer support is poor
+923 one of the worst products we have used. we have a numerous numbers of complaints from the users for performance issues. we are not talking about the rules at all.
+924 Product is OK.
+925 great product
+926 Response to reported zero day malware was exceptional.
+927 The ePO product is okay.
+928 easy to install, configure and managed (include reporting)
+929 Its crap.
+930 Good in terms of logs and reports
+931 Excellent product.
+932 Well worth it
+933 good
+934 In general the application is very manageable unless at the time of update and install new products, it is not very intuitive
+935 Wrks very well, safe, needs config facilities and UI improvement, other than that is very good
+936 Ciontinua to be the best integrated solution on premises
+937 It's the Best among others
+938 Depends on their needs, but for ours it has been satisfactory.
+939 Horrible
+940 My experience with the EPO is awesome. documentation are wonderful.
+941 Fit for purpose
+942 EPO  is the most advanced, extensible, and scalable centralized security management software.ePO allows you to manage most McAfee products from a single console by defining policies, rolling out products and reporting on these products. Proper use of
+943 The reason is it user friendly, easy to understand and wonderful support.
+944 see previous question...
+945 I'm happy with it, although don't usually recommend products
+946 Because many bugs.
+947 i'm giving downpoints for the monitoring capability of hardware on the box.  i.e. including a writing root disk would allow us to install xymon to monitor the hardware raid for failures.
+948 As previously stated the entire suite of McAfee products are terrible... They do nothing but lower the Intel brand. In fact I would go so far to say McAfee aligns better with the a sub par company like AMD.
+949 Does not work, change is not taken into account, change security policy disparassant within a few weeks, undrinkable interface, incomprehensible for specialists!
+950 extremely poor products
+951 not sure if I should continue with Intel Security
+952 We do have problems with compatibility and making things work properly on our network...
+953 Ease of use
+954 It is a better product.
+955 complexity
+956 We lost trust in the product after the SaaS debacle....
+957 Since it is the company standard, most of IT Administrators should know how to use it effectively.
+958 Your support made me upgrade the agent and the console for an issue we are still having, and doesn't giving us the solution the AV products issues.
+959 The updates rollover is smooth and not complicated. Also it works silently without need for maintenance.
+960 had nothing but issues since its release. can't uninstall it if something goes wrong.
+961 No longer available in the form we use
+962 Feature is quite strong, stable
+963 Of all the McAfee products, this one is rock solid and provides unique value that we have not found anywhere else in the market.
+964 for someone to ePO and set up for an enterprise is difficult due to the complexity - I have been running ePO for almost 10 years and it is very difficult to set up a new system from scratch.  Once you've spent a couple of weeks on it, it's pretty goo
+965 Instability Poor distribution policy
+966 The time that is required to understand what needs to happen or how to make it happen is not quick.
+967 It was tough getting comfortable with this product.
+968 is good product
+969 complexity
+970 Because I am satisfied with the product
+971 Solution is all-encompassing enterprise.
+972 Device lock 9.3 will not block USB when the system is started in advanced mode (safe mode)
+973 Trust
+974 It just works very well
+975 If EPO can be used to manage more than Intel Security, I would recommend it.  but if it's only Intel Security, I wouldn't.
+976 Overall great product.
+977 Because is of easy use.
+978 Extremely complicated to setup with no real guidance. Patch management is very hit and miss Certain parts of the ui do not work with some browsers.
+979 very robust
+980 No comments
+981 In contrast to its competitors, and few differences exist between the
+982 From the specifications of the equipment installed is required.
+983 Based on experience with other providers.
+984 Easier than other PC security products that I had in the past.
+985 I would be very likely to recommend ePolicy Orchestrator.
+986 Experiences in the past being frustrated during installation, not being able to find checklists and other documentation due to the horrible search feature. I have accused technical support of hiding useful information that eventually tech support pro
+987 Because Intel seems to be abandoning the product.
+988 Powerful and reliable solution
+989 Support issues
+990 I might recommend the SAAS version instead.
+991 By the boxes marked in the previous question.
+992 Friendly, convenient
+993 You did not want to renew to contract after 6 years customership. It was made so difficult that I quit and took F.Secure in 30 seconds.
+994 Its reliable
+995 good product
+996 I think it is an excellent security tool that helps us manage a lot of our security environment.
+997 ease of configuration and installation, easy SIEM integration, user friendly interface.
+998 I think it is good tool
+999 In my opinion, it can be overly complicated to do some tasks that should be simple.
+1000 All in one
+1001 many bugs
+1002 it's not 100% perfect
+1003 Too complicated. Very difficult to install and Uninstall, Everytime I install the product or uninstall i need to contact support. Service is very very very poor. MCAFEE had a standard which is no longer available. Please note i am using the product f
+1004 Being a reliable and top quality product.
+1005 Have been dealing with McAfee ePO for over 16 years...
+1006 ePO takes a massive amount of configuration.  We have used Symantec previously which spoiled us - it was very easy to set up and configure.  It takes a very long time to become familiar with how ePO works.
+1007 I cannot rate it any higher because of our poor experience when dealing with your technical support teams. Unless all teams lift their performance and take a more customer-focused view then I cannot recommend McAfee to anyone
+1008 up to now as the end user no problems
+1009 are alternatives that are no better
+1010 Again, I think that it is a tool great for medium or large companies, but is too complex for my clients.
+1011 It is perfect except for its complexity in the face to my type of customers.
+1012 Critical for success of most McAfee product deployments and most customers benefit from having and using ePO
+1013 Gear product confidence
+1014 Not so easy to install and configure
+1015 It is a terrible product. Deploying it to a small subset of our clients caused weeks of problems including downtime, data corruption, non functional policies that support could not fix, inability to cleanly uninstall the product from servers and work
+1016 Various hardware issues, end user dislike of the product
+1017 Versatility and integration of the tool.
+1018 Versatile tool...!
+1019 No intuitive interface.
+1020 By functionality to protect computers and data associated with the Organization
+1021 See no difference from antivirus on the market
+1022 Not easy to administrate
+1023 I don't like the product and the service is very poor.
+1024 complex and legacy interface
+1025 Comply with the promised purpose. Although I understand that they must work on the consumption of resources that uses the same on the client computers.
+1026 Extremely problematic on Windows 10 at present.  Especially so when running in conjunction with McAfee's VSE and HIPS.
+1027 This is a very stable product. In times past this was not true. I've had very little problems with this version.
+1028 I think it's obvious, coming from any enterprise admin that uses other AV platforms that are centrally managed.
+1029 Upgrades and maintenance have been issues for us in the past.
+1030 Inconsistent deployment across devices.  Inadequate information available to troubleshoot installation and operational issues.
+1031 The system makes managing a large number of endpoints with ease, manages replication and updates with internet. I also like the Dashboards, granularity of policies and existing tasks. Management is a strong point of the Mcafee anti-virus solution wit
+1032 ePO has proven to be a valuable tool for managing endpoints, I have recommended ePO in the past and will continue to do so in the future.
+1033 Updates and more regular developments would be needed
+1034 don't recommend to colleagues
+1035 Very user unfriendly
+1036 There are strong competitors such as LabKaspersky and other
+1037 The pop ups are constant and annoying. We keep uninstalling it, but every day it is reinstalled. We want the entire thing off of our system. I hate it hate it.
+1038 Because so it think
+1039 poor support
+1040 Your products and support have gotten worse and slower over the years.
+1041 Complicated options that could simplify
+1042 Easy to manage locally on premises.
+1043 Customer support is unresponsive
+1044 easy to use, great product.
+1045 In general, I have found McAfee's product offerings and corporate layers confusing and, at times, very frustrating.
+1046 Easy for me but not easy for a newcomer. Backup procedure is a bit troublesome.
+1047 Even the Terminal count is not accurate. There are a bunch of issues
+1048 Compatibility layer is not good, on the new version of Windows Update is too slow
+1049 Works fine
+1050 Still there are better products for more secure protection.
+1051 I lived through only a test phase and can make no recommendation on this basis. This includes more.
+1052 Management of all products and active responses. It's simple to use
+1053 Incompatibility/problems with Windows 10
+1054 Support reasons.
+1055 It bricked all of our laptops that had McAfee Home AV installed and your senior management decided that the conflict for 3000 laptops was not worth the effort to investigate and resolve.
+1056 Experience gained in the deployed solution
+1057 very slow development, slow performance
+1058 As an enterprise solution, it is likely I would recommend McAfee Endpoint Security.
+1059 And heavy and complex. Support too bad. The 10 days to answer No.
+1060 Gartner MQ is for the reader.
+1061 I liked the product.
+1062 Not real happy with compatibility issues that we are trying to address.
+1063 No workable alternative on the market.
+1064 I enjoy working with the different products.
+1065 Our CISO office has had multiple challenges and SRs making the ATD operational since purchase. I do not directly manage this equipment so I can't rate the specific categories for the ATD. The ratings I am sharing are based on my communication with CI
+1066 It is a product that is incompatible with Asap bone is incompatible with same mcafee, it is terrible.
+1067 By the characteristics of the product
+1068 There are a lot better and easier to use products out there.
+1069 Poor Support
+1070 Again, since it is the only product actually in use, it ranks up there with other like products
+1071 If they use McAfee software, they clearly need to manage it with ePO.  It clearly wasn't designed to be simple to use, though the newer more "HTML5" versions are getting better.
+1072 Until we can use our paid subscription on our Windows 10 machines, and especially as this product line will be discontinued in a years time. I would not recommend it.
+1073 because I have made it so
+1074 Good product, but not as intuitive as other products out there.
+1075 It depends of what they want to check.
+1076 very powerful tool
+1077 as working on it
+1078 I haven't been able to increase the number of seats- after purchasing, I got the grant letter, but no new license file on the server.
+1079 Problems with endpoints acting slow, and not easily and clearly scheduling nightly scans
+1080 Product is still in development (problems/compatibility))
+1081 bad experiences
+1082 Better than SEPM
+1083 It is moving to incorporate a lot of things.  Like the idea of moving to one pane of glass for security management.
+1084 Like it better than SEPM
+1085 the support is so weak, and the solution keeps making many faults that require the support to handle it and the support are so late in response which affect the work and the functionality of the system
+1086 Flexibility in complex network deployments
+1087 bad management (Java), not intuitive, dissatisfied with information from the Internet
+1088 on the basis of all my experiences
+1089 No support.
+1090 instability in the OS.  sales team sold us a solution that did not meet our needs. new sales team couldn't do anything to help us.  Recommended costly upgrade. technical support was terrible. took months to resolve chronic issue.
+1091 Done with that. Really frustrated with the service and support
+1092 At first seemed the most appropriate product, but we have had some problems and it seems to us that perhaps it is not the product that we need.
+1093 Upgrades can be quite complex
+1094 Your anti-virus needs to be rewritten from the ground up. To many malware programmers know how to write around it and/or disable it entirely.
+1095 full integration
+1096 Unstable and not properly supported/documented
+1097 It is good solution but the antivirus client doesn't recognize well know threats. Cryptolocker
+1098 Becuase the support I just received SUCKED!!!!! My computer does not work after FIVE HOURS on line merely trying to get McAfee Life Safe to work.  Great that McAfee Life Safe worked once, but not any more BECAUSE MY COMPUTER DOESN'T WORK!!!!!  I'm ha
+1099 Over all good
+1100 Personal experience.
+1101 for maintenance is good
+1102 We are not satisfied
+1103 ePO is a very good Web console, has flaws but again and again, the tasks are not properly completed and remain active until the restart of the server. This problem will no longer be replaced at the ePO 5.x.
+1104 Working
+1105 It is easy to configure and deploy
+1106 Due to ease of use and updating of your entire environment.
+1107 ease of use
+1108 Because a rating was requested
+1109 severe lack of conviviality. We must spend a lot of time on the console before being autonomous and understand the philosophy of the console
+1110 Well you know it's better than an 8 but not quite as good as a 10. Luckily - there's 9 in between the two!
+1111 Easy use
+1112 no problems or virus for 7 years
+1113 See previous similar question
+1114 I am very satisfied with the product.
+1115 Overall it a good product with great functionality, but with outdated quarantine interface. MEG and it's quarantine are totally different products
+1116 good product
+1117 Let me talk to a product manager and my opinion might change;
+1118 A very good tool
+1119 Worked reliably for years
+1120 Been using it flawlessly for 12 years
+1121 good. But i feel still possibility of improvement and performance.
+1122 Is a device that has features according to the needs of the administrator
+1123 Never experienced such unwillingly, not customer oriented (even when giving money), sales / key account. Technical questions about basic thinks and processes like download, volume licenses, DMZ , management Console could not be answered so we would k
+1124 Has been up and working for years.
+1125 ePO is a mess. If it worked like it was supposed to, perhaps it'd be ok, but it's unreliable and difficult to navigate. The logs are all over the place and doing any sort of investigation through the logs is cumbersome and slow.
+1126 Because the encryption settings are unreliable and lock end users out frequently.
+1127 The Firewall Enterprise (formerly Sidewinder) is aging technology. Intel has also sold it to Raytheon.
+1128 Easy to deploy. Integration is good. reports are excellent. Less false positives. Single agent concept.
+1129 product is not worth its price
+1130 See previous comments
+1131 Often even minor version upgrade issues. A lot of compatibility issues, interruptive upgrades.
+1132 Good product, needs more support for third party devices for logging/parsing, as these functions are rarely current or up to date.
+1133 I start to imagine, now that intel has to do something with mcafee security? That had ever earlier in the survey reported.
+1134 Here in Lojas Marabraz, sold the DLP solution without offering the Professional Services, a primary error making all the progress of the project.
+1135 Stability is poor Log search functions are not so good Support issues Sales Account Manager issues
+1136 It is a good product for central management and reporting of McAfee products.
+1137 No significant problems except for installation
+1138 Failure on 300 + PC's from the beginning of november without any solution or feedback.
+1139 I like it
+1140 Because support isn't there when you need it.
+1141 Quality
+1142 Buggy, Flatters to deceive with single pane of glass solution but.. updates for different product versions are many and not automatic is almost a full time job keeping ePO up to date & complient & managing which of the many products/versions to updat
+1143 Didn't support Windows 10, and the new version that does wouldn't install correctly.  Tech support was not helpful.
+1144 Because of the lack of help over the phone.  The call centre needs a big shake up
+1145 very Much likely as it has proved to be very useful feature.
+1146 I've used the platform in a previous company and recommended it at my current company which I am now in the process of implementing (CEB suite).
+1147 The main tools are solid. There is a learning curve but it works well once in place.
+1148 I would tell others what we use, but leave it to their own investigations for what is best for their situation.
+1149 It makes managing multiple computers easy.  I don't like the way I have to update the software, download the new package and then check it into the Master Repository.
+1150 There are problems with the dashboard showing random characters instead of detected threat names.  It would also be nice if there was a more streamlined way to update the current version of ePO to a new version without feeling like you have to redo a
+1151 It works!
+1152 ePO has been rushed to market, tech support is not ready resulting in hours on hold, the ePO console is buggy (throws you off while working), the console lay out is inferior to Saas Endpoint console, you cannot export policies from Saas to ePO making
+1153 single console management.
+1154 cause of the professional services done by the partner and its soo bad
+1155 It is very useful as enterprise solution
+1156 Because it is excellent product as enterprise solution for big environment.
+1157 Easy-to-use
+1158 no catches encryptor
+1159 windows 10
+1160 still have a few kinks to work out !
+1161 From the normal
+1162 Product helps us very much in the daily work and is stable.
+1163 I don't know about coverage by your competitors.
+1164 Seems to be the part of the product suite that works most consistently.
+1165 This is very worst tech support,sales support services I have ever encountered.
+1166 Very intuitive.
+1167 Because we know ePolicy since its inception by Dr Solomon's, we use it, support for our customers and comparatively we haven't found another console that allows you to manage the range of solutions from a manufacturer.
+1168 Because the product his many limitations as far as reporting.
+1169 It is a good product that has a strong deterrent factor.  But it is a killer to operations and we have to dedicate 1/4 of our staff to manage it and each release causes performance issues that causes us to uninstall and work on countless hours to get
+1170 gOOD PRODUCT
+1171 This product causes way to many problems with other software; it is not worth the money.   Impacts system performance; users cannot get work done.
+1172 good
+1173 We have had no major isses with our Web Gateways and they work really well.
+1174 Good experience, product success, notifications.
+1175 It is a solid well designed product
+1176 Has been reliable.
+1177 See first answer.  Plus, my experience with upgrading is poor.  First attempt was a catastrophic failure and required a full restore.  All because a service would not stop which completely hosed the upgrade process.  Had to run the install in debug m
+1178 The product is excellent when its working properly
+1179 Partly due to compatibility issues with new hardware.  Realizing that vendor changes are not under your control I feel that more testing with manufacturers hardware should be done.  Maybe partner up with the 3 or 4 major hardware vendors and have the
+1180 Why would you not want to centrally control your policies?
+1181 It is a good product and very reliable.
+1182 Proven product.
+1183 Its all about decreasing MTTD and MTTR.
+1184 Support is only thing that is lacking.
+1185 Your producr is not blocking all the cryptolockers and is costing us a lot of time recovering data! Your software is hard to manage!!
+1186 piece of shit!
+1187 pues porque medio funciona
+1188 Bad experience made that point.
+1189 it has been a while since I have used the product when it was Stonesoft so I'm not sure what has changed since then. But it was an excellent product.
+1190 poor support ineffective protection no integrated malware tools
+1191 Many bugs, very poor UI, support is painful.
+1192 For centralized management, ePO is an industry leader.
+1193 It is one of the few benefits of using McAfee products
+1194 is a product that does not develop more
+1195 Because the gui is Ok to work with, but it's not intuitive and it's a bit complicated to do policy changes and updates etc.
+1196 It's ok to use and give good logs. It takes a while getting to know and there is the occasional bug. But all over a great tool.
+1197 Not very useful then we renounce the use of EPO update policy
+1198 Not great
+1199 Product is good, Support is very very poor.
+1200 The solution is fine but installation is cumbersome.  i have worked with other products and their installation is much easy.
+1201 Depends on the end product being protected.
+1202 inadequate assistance
+1203 I don't think the product is that easy to use and reaching help is challenging.
+1204 If it was the old version of end point the rating would be a 7, or 8. But this new version of EPO has been a nightmare for IT, and users alike. Many company systems have suffered extreme compromise in performance since uninstalling the no longer supp
+1205 Because the quality of the support drastically has worsened years in the last 1-2.
+1206 easy to use
+1207 I am on the McAfee Online Product Advisory Council and your support didn't even respond to my 'it doesn't install' tickets. I paid $554.43 New Grant Number: 2030530937-NAI, and ended up using Bitdefender your competitor.  Please send Adligo Inc a che
+1208 No engineer has backed up your claim for support general or platinum
+1209 This goes back to my first comment. I am familiar with this product and not its competitors. I am familiar with this product and like its capabilities.
+1210 Because I cannot imaging managing our production environment without it.
+1211 Its an unnecessarily complex piece of kit
+1212 The product still requires Flash, it's not very stable and support is not very good.
+1213 - I 'cant create all reports that I need. For instance, I can't compare field values with each other (join) on the search filter. That would be very useful. For these situations I need to get down to SQL-query the database directly. - There are sever
+1214 Ease of use
+1215 Not really suitable for home use
+1216 Good stable product. Comprehensive
+1217 There are more intuitive to set up products.
+1218 good product
+1219 EPO single management point good however other product let it down
+1220 HIPS is a good product but we have had issues with HIPS losing its setting and customer not being able to connect there devices to the network
+1221 Because I miss many functions or are just awkward to implement.
+1222 Installation poorly resolved
+1223 Because it does not work!
+1224 Because it is a good product
+1225 Immature and farragginosa-to-use GUI.
+1226 it has worked well for the short time i've been using it.
+1227 While rather a good product, it oversimplifies each of the functions and does not provide a good, easy to access description of what the function does. KB approach to explaining the product is too fragmented and hard to navigate. Manuals are way too
+1228 Generally quiet
+1229 I use device control only. The other component, data loss, seems very complicated.
+1230 because I'm happy
+1231 Virus scanning is slow and cannot control the CPU load during the scheduled full scan operations affecting.
+1232 IT is our corporate standard and does its job very well
+1233 A great tool for management of McAfee products.
+1234 Do not grasp the superiority and other products;
+1235 easy of use and able to manage all my systems in one area
+1236 We've had problems with capabilities in earlier versions
+1237 Outdatated, poor interface, cheaper alternatives, tools for support staff difficult to use
+1238 Extremely Poor services from Intel Compliance team affecting sales renewal
+1239 Experience with the products, and their effectiveness
+1240 It's a decent product but needs more data source support and the UI is terrible
+1241 Performance. Reliability. Ease of use. Fit for purpose.
+1242 It is an excellent choice of security
+1243 It is not the expected failure often results.
+1244 Because I have seen the competition.
+1245 No stress free.
+1246 It's not compatible with Windows 10 so we can no longer use it for about 50% of our computers. It makes the computer very slow during the scheduled scan and the scan itself takes forever!
+1247 things change
+1248 · The ePO console is unwieldy · The operation is unnecessarily complex · The software itself is very complex Some also probably is been in the translation from English · The failure rate in combination with SQL Express database is high • Progra
+1249 Very Bad
+1250 It's good and easy to manage
+1251 pretty good
+1252 I think getting used to
+1253 Does the job.
+1254 ePO is great for systems identification and management across the board, including several different products.
+1255 it is very good, secure and easy to handle product
+1256 Not perfect, but still way ahead of the competition.
+1257 Good support
+1258 It shows great promise but is not really a releasable product yet except for a very small organization with very experienced admins: - No reliable way to remove it in case of bad install etc (no standalone 100% cleaner) - No intelligence to track and
+1259 It's not ready for market yet. No reliable way to UNinstall when a crasher-bug hits a user. Poor quality of installation process unless everything goes absolutely the way the developer imagined. MAJOR enterprise features were simply forgotten. Not ev
+1260 For do not know the advantages compared with other companies.
+1261 Worked well, and never had a problem with viruses.  System ran smooth, but I don't think this product is available anymore.
+1262 Easy to update and  analysis of all data related to end machine.
+1263 I find it easy to manage and powerful tool
+1264 It does what I need it to, but it is only managing my MacAfee Email Gateways
+1265 Subjective opinion
+1266 The order is available, no problem is currently available.
+1267 from my experience using
+1268 support is bad activationg it is horrible
+1269 There was no proper support from intel security.
+1270 most advanced
+1271 great product and support is constant
+1272 Good stable product with simple user interface.
+1273 Scope of private
+1274 the complexity of loading
+1275 Good service
+1276 there are some areas to improve
+1277 excelent solutions
+1278 Software support from Intel is horrible.
+1279 Quite complex
+1280 Years of use and facilities management.
+1281 Don't know enough about the product
+1282 See above
+1283 ease of use
+1284 Nice tool, but it may improve
+1285 overall great but sometimes high resource consumption
+1286 Happy with product, unhappy with recent support and sales/service on renewal.  Clumby/difficult to update and apply Patch versions.  Instrutions are poor and unclear.  Patch updates do not install and no message is provide to indicate why (cause of l
+1287 Very good technical support
+1288 Understand your product Security Center from the migration to migrate manually almost.
+1289 From the stable software
+1290 I know the product
+1291 Some bugs that persist from a few versions, sometimes the product tends to be wobbly.
+1292 Too cumbersome to install and manage, not very intuitive interface
+1293 Lack of skill and training
+1294 stable product
+1295 Tuning can be a pain, automation and better intelligence within the product would make it better.
+1296 we have had issues with HIPS for several months that have yet to be resolved and there is no time set aside in the future by McAfee to work through the problem despite our request.
+1297 Poor support - doesn't detect malware
+1298 I've had good experience with ePO in the past 10 years.
+1299 its a pretty intuitive product and does the job!
+1300 Awkward interface, ridiculously complicated. Try Sophos console which is the way to do it.
+1301 Clunky and unintuitive interface. Extensive training and learning required to do basic tasks. Plethora of individual tools and modules available  all requiring configuration or without obvious purpose.
+1302 Good product for centralised management of integrated security products
+1303 It does what you need it to do.
+1304 See first set of comments.
+1305 No issues so far.
+1306 because it is easy
+1307 EPO is one of the better tools t.o.v. the competition (the best product/service from McAfee).
+1308 ePO is excellent it communicates with the clients regularly and check the updates and keep the virus away from the newtrok
+1309 Poor performance.
+1310 Is useful in the management and high system requirements. Under the environment of the small advantage almost unavailable.
+1311 ePO accommodated the running of uvscan on our Unix/AIX end points with the use of EEDK. It was an unusual solution request, but these products made it work.
+1312 Systems don't sync well with AD changes, console is a pain to use.
+1313 I have trouble last time, when I want to upgrade ePO 5.3 version to a newer one. I have no same trouble earlier.
+1314 Sometimes the VSE doesn't pick other viruses
+1315 because I'm happy
+1316 Since going to a web interface, from a full featured GUI program, its become very awkward and combersome to use. I much prefer the old program interface, it was much easier to use. I know why its been done, because its cross-platform, but you've lost
+1317 Product provides superior protection and is easy to manage.
+1318 EPO is a joke, complicated interface, things everywhere, no confidence in its use, default rules have caused issues on client workstations and servers, its an embarrassment, CA unicenter from the early 2000's was x1000 times better in everyway, Lande
+1319 so far good experiences
+1320 Bad support . No contact office at Kolkata , India . Bad product .
+1321 See first answer
+1322 Still testing and validating software.
+1323 Because if they were going to use ePo, they might as well use the cloud version these days.
+1324 Two failed upgrade attempts and a complete failure of the support organization to address the problem. Releasing a completely untested patch to me what also not a positive.
+1325 Access to third-party systems are difficult to manage
+1326 because it is dependent on the operating system
+1327 Service is being discontinued.
+1328 We had problems with implementation and issues with it not working in our environment as advertised. When we asked for refund on quick start because we had to bring in a higher level of professional services we were denied.
+1329 excellent product
+1330 We find that ePolicy Orchestrator (ePO) works well
+1331 usefull
+1332 It is a good product
+1333 Difficult interface-unclear how things works. It takes a while honor you figure where correct settings have to be adjusted. A more intuitive interface cfr. Windows could fix it.
+1334 Lately we had different problems regarding viruses  that i feel should have been covered by the program but hadn't
+1335 it needs further improvement
+1336 Used it from the beginning, very good product
+1337 Because they are secured and
+1338 Very useless product.
+1339 I find the ePo orchestrator console overwhelming and confusing.  It's not very clear on what actions are being taken or what they affect.
+1340 Unfamiliar with other products and this product is not happening from problem
+1341 Crippled my system.  Could not get it removed even with support's assistance.
+1342 With windows 10 built-in security features, do we really need an antivirus??
+1343 THERE IS A LACK COMPLETE DOCUMENTATION AND HELP, OR IS IT IMPOSSIBLE TO FIND ON THE WEB
+1344 There is very limited options in Appliance Models and does not seem to scale unless more appliances are purchased.
+1345 Quality of product good. Much difficulty in renewal by Agent and self.
+1346 Problems with the database.
+1347 Felt on other products.
+1348 with an IPS that has been down for a month, how could I give any other grade to you?
+1349 As per quite good experience using the software for more than 8 years.
+1350 good
+1351 for the best service
+1352 It works....far better than Pointsec...LOL
+1353 I worked well mu
+1354 Because I think that it is missing when the agent is installed on a workstation and there is communication with the epo. You should able to everything you need, without so many failures and manual intervention, as in an update to versions or a displa
+1355 And used for many years, should be easy to use. High reliability.
+1356 It failed to install on computers, and those that were successfully installed, stopped working on killed the performance.
+1357 I didn't work well with Windows 10
+1358 This product is inferior.  It is easy to install, but to uninstall it properly,...well, McAfee has obviously not figured it out yet.  Perhaps this is why they have refused to contact me again regarding this case.  Apparently NO ONE HAS AN ANSWER.
+1359 Because WIN 10 is not supported for example!
+1360 Because of its after sale support and response from sales and support team
+1361 Problems with testing rules
+1362 Good product
+1363 I have never had an issue using the DLP products. always a smooth interaction.
+1364 Technical support was unable to solve critical issue (system stopped collecting ANY events), had to change vendor. Product had security flaws (configuration file encryption key hard-coded in windows agent executable).
+1365 Very complex and no AD integration
+1366 Complex tool and non-intuitive.
+1367 Overall it is good, but my personal understanding of it is limited.  This rating is mostly due to my own limitations and lack of knowledge with the tool.
+1368 too confusing for small businesses
+1369 It has let some stuff through, but overall has been good. It doesn't slow the computer down too much.
+1370 bad product and we will replace it ASAP
+1371 I like some aspects of the interface
+1372 Due to the issues encountered with installation of SaaS 10 - computer corruption and many hours on the phone with technical support
+1373 By explained above. In any event received support is totally nil, in fact hemod llegsdo s without licenses to use them
+1374 Due to the cumbersome of the console.
+1375 We are a small business with no in-house technical support.  Recent changes to McAfee Endpoint Security (moving to EPO Cloud and new version) have created firewall issues that our contracted technical support has yet to resolve.  My understanding is
+1376 The product we were using has been discontinued.  Intel provided no support post takeover of McAfee.  We had problems and wanted to cancel our service.  No one could help us at Intel, even the "McAfee transition supervisor".  We got the runaround and
+1377 requires epo client and constant updates
+1378 I like the McAfee products and the tech support that I have used.  It has done well in keeping our computers virus free.  I am not very familiar with Intel but if they continue as McAfee has then I will also continue using the product.
+1379 It is a good tool to use but not the only tool.
+1380 Ease of use
+1381 Monitoring of over 100 clients is possible and makes sense with EPO
+1382 The bigger mcafee got the stupider it got also.
+1383 I enjoy the experience of working with ePO
+1384 Simplify security operations
+1385 I know someone who manages the servers not
+1386 the book of training made 1800 pages in 3 volumes!
+1387 I've been using mcafee for more than 10 years and is a reliable product
+1388 Very good
+1389 Product reliability
+1390 Very good console
+1391 Didn't work, and technical support were not able to assist
+1392 very flexi product
+1393 For use in the company.
+1394 very bad support
+1395 Poor problem resolution
+1396 Virus definition updates quickly, good stability
+1397 Good in principle construct, but with weaknesses in implementation and some, some serious hooks.
+1398 Since some known issues and functional limitations were not eliminated with the last updates
+1399 by the experience with support
+1400 No..Decryption is the worst part.
+1401 because it is really no better or worse than other products out there.
+1402 Last ePO upgrade was a disaster.Upgrade failed, restore did not worked. Product upgrade is a nightmare.So many exceptions.
+1403 Very difficult to work with.
+1404 Close to top of the scale
+1405 Not really into the security details.
+1406 its easy to learn
+1407 I had a problem trying to add new computer to my account.  I'm not sure of the problem.  It say it could not locate the server when I tried to buy SaaS protection.
+1408 as of now i don't know any other alternative products.
+1409 in reference to my experience with IPS , I have some notes about the overall device performance from the bugs point of view , we have faced many bugs during a very small time period which directly affect our business continuity .
+1410 Product issues and poor support from product team. Took 6 weeks to have support really look at our issues.
+1411 It's ok.
+1412 Good Product
+1413 no alternatives
+1414 Product generally works as expected, and has features like custom attacks that are very useful to us. Lacks a few detections (e.g. RDP brute forcing) that hit us a lot.
+1415 Product works well, is generally reliable, customizable for most of our needs.
+1416 The web based interface is very poor, with lack of clarity of between server and client tasks, and managing policies is very clumsy
+1417 Because I know better other solutions
+1418 good product but not complete service
+1419 Reports are not easy to navigate - installation to end users not reliable and only appears to work 75% of the time - Still waiting for resolution from Tech Support leaving my client unprotected
+1420 I thought I already answered this above.
+1421 Because there are problems with performance on the machines where is installed NDLP client
+1422 because of poor service for this product
+1423 he can be protected very much
+1424 some times we couldn't scann viruses using it but it is good some how
+1425 i recommend
+1426 We only use it for the Directory Synch feature which is unreliable and overly complicated to set up and manage for our purposes.
+1427 Cannot depend on Intel keeping products alive.  Unknown which McAfee product will receive the axe next.  Intel has succeeded in taking an excellent company (McAfee) that we have used for over 15 years and making it undependable.
+1428 defence all in takes
+1429 Very difficult to reach technician on the phone to fix problems or for installation.
+1430 The learning curve required to eliminate the false positives and a lack of ability to exclude web posts to HTTPS.
+1431 Data Loss protecton is a very complex product , requires a large effort (administration ad maintenance)
+1432 ePO performs the functions it is supposed to very well, Having problems trying to upgrade from 4.6.9 to 5.x
+1433 I don't do recomendations
+1434 Easy to navigate and admin.
+1435 There are more effective technologies for the money.
+1436 There is no support for the product.  It seems like the least supported product, from support.
+1437 Would give a 10 if some improvement can be made.
+1438 I like being able to manage multiple systems at once but I don't know many people that would have a similar need.
+1439 tech issues, support issues
+1440 Query and reporting capabilities are good, but what is right for the environment.
+1441 good product but not worth the hassle for all
+1442 We've had many issues with our NDLP appliances and the support we've had on these issues hasn't been satisfactory.
+1443 Has been excellent since inception
+1444 Because I was not renewed automaticly as I used to. I found out when I wanted to instal Windows 10. It was impossible to find me - and it was impossible to uninstall my McAfee files - so I missed my free Windows 10. Someone promissed to call me back
+1445 Because after upgrading from version 4.6 to 5.1 appeared a bunch of problems.
+1446 Well known product with overall good reputation.
+1447 There are so many better options now.
+1448 Technical problems that long hesitant to support
+1449 There is a problem with the stability of work. There is a problem with communications when contacting technical support and qualified technical support staff.
+1450 by tools
+1451 Specification is complex and do not know
+1452 Central management.
+1453 At the time of backup LAN not working and USB block that time its most helpful.
+1454 It's a good product
+1455 It has features that no other product in the space has.
+1456 Difficult to configure
+1457 Support is not to standard.
+1458 The probleme is not ePolicy but the efficience of the AV Agent
+1459 The McAfee M2850, the IPS version is 7.1.3.119. This version is EOS on Dec 2016, and after EOS, we cannot download the latest network security signature. McAfee deliver the new network security version and force users to upgrade the version.
+1460 Reliable functionality and little maintenance if all is configured. A point deduction: complexity in the interaction of modules A point deduction: logical structural organisation of the surface
+1461 It is going out of service
+1462 Ease of installation and software updates.
+1463 works well for us, very stable and reliable.
+1464 The software has helped us much to protect information.
+1465 It works well.
+1466 I have been using ePO for several years now and find the interfaces and management very easy and simply to use myself and pass a good working knowledge onto others.
+1467 It is an excellent management tool and the fact that all Intel Security products that we use are compatible with it add to the overall rating.
+1468 It's the worst siem i have ever used and the support is a black hole.
+1469 I think the hdlp product is good
+1470 It is a good product.  Not perfect - the dependency to also have a completely separate product (Device Control) deployed to accurately identify removable devices, for example - precludes a 10.
+1471 Because it was possible...
+1472 Poor reputation
+1473 ePO policies cannot be additive so any specific change for a sub-set of computers needs to have a different policy that additionally needs to be maintained.  The user account that creates the policy owns it and makes it hard to have team members able
+1474 Good product to manage McAfee products centrally.
+1475 not fit for purpose
+1476 Easy handling
+1477 No followup, no sales presence, not making full use of product, lack of resources to fully manage
+1478 No support from McAfee/Intel on setup
+1479 Because after requesting response from the Support area and account representative numerous times, we received no response and were completely ignored.  My team does not have the time to chase a vendor that we have purchased products from around.  Th
+1480 Have no area of dissatisfaction with McAfee
+1481 is very good tool
+1482 Good product
+1483 See open tickets
+1484 Impossible migration to new version
+1485 Solid software solution without any problems.
+1486 Several problems which are not corrected for several versions, including the deployment of McAfee Enterprise, but that blocks the EPO agent because management policies have not yet received by the agent and McAfee is blocking the update of the agent.
+1487 It works and works well.  A bit of a pain to install and update, but it does maintain end point security.
+1488 QA... n/latest releases seem to have too many compatibility/stability issues.
+1489 Difficult to use and doesn't seem to work correctly
+1490 Once setup it is easy to use and reliable
+1491 I don't have basis for comparison to other web protection software.
+1492 Hyper complex.
+1493 As mentioned previously, ease of use seems to be the last priority in ePO.  I've used solutions from Sophos and Symantec before, and neither of them required anything close to the level of research I have to do when creating policies or god forbid tr
+1494 Doesn't work as well as before.
+1495 We are not able to rollout due to multiples bugs during test, which is continue to appear
+1496 HIPS has a lot of shortcomings but it is effective if turned all the way up.
+1497 because it is likely I would recommend McAfee Endpoint Security to a friend or colleague
+1498 Stable product
+1499 I like the quality
+1500 It can block the USB one sided but as per your engineer we cant stop the user to copy the data from usb to computer.
+1501 Console
+1502 MWG meets our Network Security's business needs and adapts to challenges we experience day-to-day with minimal impact to business as usual.
+1503 It's a good product.
+1504 Am overall pleased with the ePO. But the migration of documented migration paths for simultaneous OS change (32 64 bit) was not possible and no one could help me also with the support. Then, thanks to the Forum, I found a solution.
+1505 ePO console user friendly and easy to control.
+1506 Cripples the end point and does not work
+1507 Its terrible
+1508 because I made good experience with it
+1509 IT is a stable product but nothing that makes it stand out from it's competitors.  Solid, but nothing spectacular.
+1510 I like the product, but not lack of support
+1511 Java...
+1512 I have a problem I have not been able to solve. I cannot install my dat file into the epo server and there are no real complaints in the logs. I have installed app on other environments and it works fine. No one can help me with the problem so I have
+1513 Slows workstations down, clunky management interface.
+1514 It is a very good product and allows us to keep good control of our computer equipment.
+1515 4-13846024566 after several months ticket still open.it's no one in your support/dev or engineering team know how to fix or don't have time to look into this issue. that's include your gold and platinum support in EU and US
+1516 ePO is very good at bringing everything together under one console which make management very easy.
+1517 Because the value is simply not there in our environment.  The Email Gateway product (which is not listed in an earlier question) does enough to block unwanted emails.
+1518 It has been a stable product for us
+1519 something unwieldy, but ok
+1520 So far I like the product.
+1521 The main differential of ePO sane reports and Dashboards, and this is also the main problem, as some reports are confused and confusing concepts of malware detection with detection of suspicious behavior, and export the reports generally raises a pro
+1522 Good product
+1523 Sometimes definition updates "hang" workstations.
+1524 Its a great solution with good detection rates out of the box.
+1525 Have a product purchased and distributed in the Park (HDLP), that doesn't work as it should. I'm 1 year and a half trying to resolve the issue with McAfee, but no solution for them. Detection of problem tags in Google Chrome.
+1526 Is good product but has many resources
+1527 END of LIFE....
+1528 ePO is our central AV and security management console.  Queries and reports are customizable and can be scheduled.
+1529 complex to manage
+1530 1) doesn't work correctly on many computers at many clients. 2) terrible phone support that has not resolved the issue in 3 months. 3) unreliable client. 4) We are evaluating other options because we have been treated so poorly by McAfee - why am I p
+1531 Support is very poor
+1532 System is easy to operate
+1533 Range of products is very difficult to understand.
+1534 Excellent product as part of the McAfee IDS/IPS solution
+1535 I cannot in good conscience recommend a product, although I think it is a good one, with such poor support.  But, then again, we're the government so...
+1536 I use a number of security suites and ePO is way to cumbersome
+1537 Don't like the product
+1538 It does what it needs to do
+1539 It works without aim to look
+1540 Because without warning in case of problems the product loses value
+1541 I don't use it at home
+1542 Not support on current problems.
+1543 Difficult to recommend a product if its holder does not solutions in case of problems
+1544 partial incompatibility with our range of portable HP without return since opening ticket Poor performance and degradation time access.
+1545 it's missing license info.
+1546 See previous comments.
+1547 good product for restricting external storage media with easy steps
+1548 If the simplification process will be better
+1549 By the product's effectiveness
+1550 good experience
+1551 See previous answers
+1552 There are many options on the market.
+1553 Does not automatically update
+1554 feel their are better products on the market
+1555 Decent product but quirky and lacking in some features that I would like to see.  Upgrade process changed things considerably.  Have had some issues with evidence access.
+1556 Very poor Tech Support, could not understand support staff.  too many steps to get to tech support.
+1557 Good product, it is doing what it should
+1558 At least in my case the ePO server is slow or unressponsive - the menus or processes are not clearly understandable (eg - FRP media policies)
+1559 I just don't trust McAfee. I don't feel protected.
+1560 ePO is good but not exactly cheap.
+1561 Complicated installation/configuration/upgrade.
+1562 No courses/instruction in Russian system. The system is not adapted to the context.
+1563 TO OUR EXPERIENCE BEEN GOOD
+1564 Some streamlining for updates would be nice.  Not convinced Software Library stopped confusion. Concept of extensions as separate items rather than just part of a patch requires additional checking.  Sometimes (with a .zip) you don't need to extract,
+1565 This is a good management solution
+1566 Some issues around deployment and patching
+1567 Problem with Dean. the analysis, for example the analysis fails for chm files
+1568 This is one of the products that has done very well and made us aware of just how much data is going out the door and to where.  (gDrive, drop box, USB drives, etc)
+1569 I will not recommend any product from McAfee after our issues with refund and support.
+1570 see previous answer at beginning of survey
+1571 worst support ever.
+1572 Product is being discontinued and support is terrible.
+1573 Support is really bad as the wait times are too long. This is a new development within the last 3 months.
+1574 Despite not being able to renew due to my explorer version, it was still a good program.
+1575 Difficult to setup and manage
+1576 product is EOL
+1577 how it works in ePO and easy of management
+1578 It has a very large install base for government organizations, so finding administrators with experience should be somewhat easier than for smaller less-prevalent competitors.
+1579 Ease to manage
+1580 Product meets expectations contracted
+1581 I'm satisfied
+1582 easy to install and update.
+1583 This is an excellent product of Intel Security.
+1584 Some incompatibilities we forced to change of devices modem USB.
+1585 Never clean or catch Virus, Malaware etc...
+1586 poor product quality and quality control.  User interface is not intuitive and is not being improved.
+1587 Performance is slow and doesn't flow well
+1588 I like the central management concept that McAfee uses for most of their products.  It would be awesome if you could get even more into ePO like firewalls, IPS's, and other things like these.  I know they are entirely separate types of systems, but t
+1589 It has caused many problems with applications or OS on workstations and servers.  We seem to always have to tweak policies or disable it.
+1590 Certain level product is ok.
+1591 For reliability,
+1592 Good product
+1593 Convenience
+1594 A good product
+1595 Product has not been without bugs over the years.  Interface has changed and requires some familiarity to effectively navigate.
+1596 because
+1597 I think it is a good product, a little difficult to navigate.
+1598 Because TIE is a strong tool to heltp protect against malware/cryptomalware, and because TIE has integration to both GTI, VirusTotal, ATD.
+1599 If you configure it as a proxy inplicito, not you can filter shaped granular youtube.
+1600 Inconsistent performance.
+1601 See previous response about documentation and issues with removal processes.
+1602 Depending on the quality and safety of the product.
+1603 The product is not that simple to use and has a clunky, unfriendly interface.
+1604 Consolidated product. But higher than some competitors.
+1605 Is it that it deserves.
+1606 As stated in my first comment
+1607 Good product.
+1608 Very cumbersome non standardized interface that does not have good documentation (because of fully customizable interface) and no customer training/certification options.
+1609 Good, reliable product
+1610 See my initial comment: sometimes tech support leaves much to be desired and there is no appropriate commercial policy
+1611 The best product on the market price/quality
+1612 because I have no knowledge, and then I don't feel able to recommend something you don't know.
+1613 Transfer of approximate jurisdiction for management after purchase
+1614 see first
+1615 reliable
+1616 It is not easy to fix if it breaks
+1617 McAfee sucks. Period. Not sure why anyone still buys this crap.
+1618 I use it and have been satisfied.
+1619 Tired of talking to people offshore. Tired of products not supporting latest operating systems until 1 year after release.
+1620 For actions presented with some Malware. Where it was not identified and caused damage technology.
+1621 the product is mature and keeps evolving
+1622 The product is working very well
+1623 Often have odd crashes and slowdowns that go away when we uninstall McAfee.
+1624 Too complicated to use.
+1625 All features doesn't work on latest browsers.
+1626 is not friendly
+1627 Love the product
+1628 Reporting out of ePO is terrible.  It does not have ability to report trending data.  It's ability to maintain connections with endpoint is terrible.
+1629 Unified Console
+1630 He has plenty of time on the market
+1631 Not user friendly. Complicated to use since it is difficult to find the correct settings.
+1632 HIPS has been a continual problem since we first attempted to deploy it.  We encountered a known, documented problem with the product which McAfee has not yet been able to address, despite having had about 6 months to do so.  Our deployment of McAfee
+1633 Most people I know, work for smaller organisations and in those cases ePO feels like an overkill potentially.
+1634 We have had some issues with the tool, so kind of warm to the product, but not having too good vibes for it at the moment.
+1635 in very many cases, the agent installs on a client computer, but the protection will not settle.  We lived the blocking of the interface repeatedly.
+1636 many deployment problem
+1637 Most features are not familiar yet
+1638 Simple, easy to use, but large enterprises when more than thousands, viewing HDLP events is a very difficult thing, because the loaded event is too slow.
+1639 Haven't evaluated other products for comparison yet
+1640 best product i've used
+1641 We have never had a smooth upgrade.  Product constantly gives problems to the Help Desk.
+1642 Had a good experience with the product.
+1643 ePO is a good management console but has shortcomings in not regular use because not every approach is intuitive.
+1644 complicated handling, not friendly, and this update that mcafee not gave me advice did you lose much of the SCI you buy in advance
+1645 the user interface is awful
+1646 For the slow response to new OS release is installed in a Mac Terminal is deployed for internal and EPM including problems, slow response to inquiries Are feeling frustrated at the ePO, such as unverified? able client installed successfully, client u
+1647 No plan for development
+1648 It's easy to use without much of training.
+1649 GUI is friendly.
+1650 Been great for us
+1651 Very poor
+1652 I am happy with the product and the supplier
+1653 Good product to prevent data leakage
+1654 poor after sale support
+1655 not going to continue the product is why
+1656 I like being able to manage all aspects of the product from one console.
+1657 customer satisfaction and product efficiency
+1658 First time I use the product
+1659 stable product
+1660 The Capability and controlabilty.
+1661 The rating best reflects my sentiment towards the question.
+1662 Backup up from either online or telephone assistance when queries arise which cannot be resolved.
+1663 It's average
+1664 I loved the NitroSecurity Product, and had spec'd it out.  Once McAfee bought NitroSecurity, the quality of support and updates immediately went down, and the pricing went up.  We began to see more bugs in the software, and McAfee is too big to deal
+1665 Overall Product performance is the reason behind this rating.
+1666 It simply makes the most sense.
+1667 Easy to deploy
+1668 Ease of installation and configuration. user interface is intuitive. Most important, the product is stable and reliable
+1669 we've used it for at least 7 years now with minimal issues
+1670 Does what it should do
+1671 Rich in functionality
+1672 poor
+1673 Users continually get locked out requiring a recovery.  This doesn't always work, and there are different reasons why this happens, as well as different ways that fix the problem.  Most of the time user have to come in from the field to fix this prob
+1674 Because it is worked unstable and using high performance. Sometime it caused the PC to be BSOD. Anyway, its feature works not stable.
+1675 Too difficult to use.
+1676 The solution is complicated of configure and manage
+1677 excellent antivirus
+1678 Why after switching to Intel, our problem is not solved. Called for several days and I can't install the product leaving my network vulnerable. If I knew it wouldn't be resolved would have bought other corporate antivirus. I believe that the complexi
+1679 Good- Easy to use. Easy to install Bad- Difficult to upgrade EPO server - too many different products and versions (only some versions work with other products eg MA , VSE and EPO)
+1680 Because that is what we use at work so I know how to use it (unable to compare with other AV software as dont use it)
+1681 You can manage without a doubt;
+1682 Powerful, informative, and centralized management of products and policies
+1683 Meets expectations
+1684 good product
+1685 Hate it!  Would rather have any other vendor. I've had nothing but bad experiences with support.  The product is overly complex and it doesn't need to be.
+1686 It kept giving me the same answer for two years that something was wrong, but when I checked, I found nothing. and I couldn't contact any human to find out what the problem was.The product was renewed for another year which I DIDN'T AUTHORIZE and had
+1687 It is no longer being sold since you merged
+1688 Excellent operation
+1689 Easier to use products out there.
+1690 Security center was better
+1691 it's ok but has problems
+1692 It a great management product for McAfee solutions.
+1693 It is better than a lot of other options out there but really could focus on the upgrade process. The upgrade process is rather strange, and without previous knowledge of things breaking during an upgrade, I wouldn't have a clue that I need to do thi
+1694 it works
+1695 I found it hard to understand some rules.
+1696 It is very good
+1697 Works well!
+1698 Comment: I know McAfee but have not dealt with Intel on the same level.  So the way your wording is in relation to your new branding messes up the survey for me.
+1699 Because occupies many resources of the computer and to install it in the computers is must do in form face-to-face one by one.
+1700 Still one of the better solutions in the market
+1701 I don't know how McAfee AV code got as far as it did and the market share it did. It's a slow, unresponsive, resource-intensive, ineffective product. A 5-star company like Intel should be embarrassed to have the company like McAfee under its umbrella
+1702 Easy and reliable
+1703 is good but some stuff is very complex
+1704 no support for WIn10 or upgrade to support win10 poor support - non english speaking
+1705 hard to deploy and understand support team
+1706 I have issues with the overall interface, not a big fan, especially of the contant 'clocking' as the screen updates.  Not very intuitive for new users and even those with years of experience still get lost.
+1707 Intel / McAfee has not called me back to actually address my  open ticket. Why are you sending me a survey?
+1708 Technical support hasn't been responsive, but otherwise the product is good
+1709 The tool is very good for clusters SQL server, not in the galley/MySQL Cluster configuration and lacks support for PostgreSQL clusters.
+1710 Its good, just not sure it is the best right now.  Been using it for over a decade now  I'm behind in my research on which A/V program is best for the branch/field offices, my apologies.  I would be a better survey participant if I was current on the
+1711 dont like mcafee products
+1712 Filling expectations
+1713 why with Windows 10 does not work
+1714 complexity
+1715 Because it has positive points but also negative points.
+1716 I prefer the cloud model.
+1717 You are closing this service and not even bothering to tell your customers. I recently purchased it and you screwed me. Currently forced to look at your competitors for another solution after donating money to you.
+1718 It works for us.
+1719 Happy
+1720 Not great on Windows 10 - upgrade to ePO loses settings
+1721 Because I loved McAfee
+1722 Because McAfee updates at least daily, sometimes more often!
+1723 I've used this product for the last 12 years and I've never had any issues with product or support.
+1724 Because it's the best one out there, and I really like the vision which is TIE
+1725 due to the complete absence of call-support in Russian
+1726 see earlier comments. not working properly and you cannot offer a solution other than to wait for a version not yet released
+1727 I've used various versions of ePO from 2004 through today, it's gotten better but it's still a beast, not intuitive, and not easy to "dive in and use". Once you understand it's quirks and issues, it's okay. But definitely not my choice with the footp
+1728 EPO is not that easy to configure.  The integration with AD was not that simple.
+1729 Does what it says its supposed to do.
+1730 upgraded to Windows 10 and the software doesn't work
+1731 Its too disparate, and in its attempts to do it all, it does none of them well.
+1732 Of the three vendors - I have three years with NSP, know about Cisco Source fire. These are my top two, but my be forced by new management to use Tipping Point (going backward IMO) and don't even own.
+1733 Not convinced me yet
+1734 the console is a centralized management tool which facilitates the monitoring of various machines
+1735 Product feels like it take more effort to manage and maintain it than it should
+1736 It seems to work ok, but there seems to be issues at times with deployments, and uninstalling components from Endpoints. Doesn't seem very intuitive initially, but makes more sense after you've used it a while.
+1737 Stability
+1738 good product, all others
+1739 It is not reliable and the support is not good. It does not give security when we speak of 'Security'
+1740 We use filer-security from MCAfee. No the by and opened cases could be solved! After less than a year, we have decided to switch to the competitors!
+1741 Mcafee have left me in the dark with four customers unable to install their antivirus on Windows 10 PC's. My customers are all asking me for a refund due to this issue and Mcafee is doing ZERO to assist in the matter. I am told to wait and its been n
+1742 because we are satisfied with the product
+1743 It was not expected in the experience with the console
+1744 It is difficult to use, difficult to configure, difficult to get information out of it.
+1745 because I since 25 years know McAfee in all generations and ePO means a big relief
+1746 I am only familiar with 9.3; I have not used 9.4 yet. This version frustrates me because the incident management interface is severely lacking compared to other DLP Vendors like Symantec and Websense. It is also severely lacking in it's ability to pr
+1747 As a partner we are still recommending this product
+1748 I am pleased with the performance
+1749 Purely based on the overall happiness of the McAfee products that tie into ePO, we've had considerable trouble.  ePO itself has also been the focus of continued upgrade issues, performance issues, and random outages due to the inability to handle unk
+1750 It is easy to manage your environment. Some improvements and features would be nice but overall, it's a great product.
+1751 Continuing technical issues with configuration and capabilities
+1752 it works, but nor=t easiest to undersatnd
+1753 flexible and works
+1754 Because it does not report 100%, and the support to try to fix this is awful
+1755 With ePO it is hard to get everything set up, your tech support bites...
+1756 Ease of use and implementation
+1757 Effective threat detection service
+1758 Excellent product. Easy to install, integrate and operate. Excellent protection features.
+1759 Customer Care Support is not supported properly and even our vendor where i have procured McAfee is also not good in installing McAfee...
+1760 After Intel purchase McAfee, I could not get support. Why would I recommend a product that I could not get support for?
+1761 Allows integration of entire form platform agile
+1762 It allows me to be a centralized management
+1763 Ease of use
+1764 Because is fatal since makes a year and half.
+1765 Good tool for prevention of frauds and theft of information. Good reports and good notification system.
+1766 Product is fairly robust, but difficult to manage, and updates and/or product removal is difficult.
+1767 Extremely reliable
+1768 Ease of use
+1769 its a great place to get the single-pane of glass view
+1770 The process of renewal which is no longer online. As mentioned previously, now you must contact a sales channel and you lose a lot of time with this. So much so that we moved to Symantec, there buy online and on time already installed.
+1771 Because I would be extremely likely to recommend ePO to a friend or colleague.
+1772 We have issues with supported hardware, particularly the fingerprint reader on current Lenovo laptops.
+1773 Because it works very well.  It is one of the best Enterprise Anti-virus products that I have ever used in an Enterprise setting.
+1774 Depends on their needs/budget
+1775 UI a little confusing
+1776 Easy to use and full customization of reports.
+1777 Does not integrate with rest of EPO
+1778 It is difficult to use, not intuitive at all, and I am unable to find some of the information that I need.
+1779 I had mcafee for a dozen years. The last three years I left you both at home and work and I will never ever go back.  It was so bad, it defied description.  I have changed over a hundred local home computers from Mcafee to Avast free because its bett
+1780 Unfortunately there is no choice for "not determined"
+1781 We have too many problems in EPO, sometimes it does not report what it must
+1782 Same as answer 1.
+1783 by quality
+1784 It's a very helpful utility
+1785 I am not convinced by the product.
+1786 It does the job adequately
+1787 We had bad experience with this tool. It does not work in the way you expect it to work.
+1788 Never work for over a year.  Customer service is worst than horrible..
+1789 I am unaware of a competing product that could deliver the same utility.
+1790 Based on detailed evaluations and trials of the team, specifically around detection.
+1791 Compared to competitors a very good product. In General, could be better.
+1792 Doesn't always capture adware so need to use SAS or MB
+1793 no real reason
+1794 Because the service is poor, support technical never answers and because not I solve those problems.
+1795 Very poor documentation and complex to work and Very poor technical support.
+1796 We use linux VMs but upon load testing, it uses more CPU if it's turned on. Now, we turn-off the McCafe Endpoint
+1797 The experience that I have using Web Gateway is very good
+1798 we had to implement a NDLP solution  - MEG/Prevent
+1799 product nearly not working in chrome and it disables easily without requiring elevation of permissions or minimally a key, the reports shed communication errors frequently.
+1800 Because Intel has shown a lack of commitment to its own security products, how can we be certain that this product will still exist in 6-12 months time. Considering a core security product (Vulnerability manager) is being removed from your portfolio,
+1801 The tool is reliable and performs as promised.
+1802 EPO is brilliant, but the product that it manages are terrible. For that, I can't recommend it.
+1803 It is a good product
+1804 Excellent product, but unfortunately there is delay in product compatibility with windows 10, causing the majority of the company's equipment is waiting for this update.
+1805 Deploying products is a nightmare for EPO other then that. Its a decent product...
+1806 easy to use
+1807 it is best for management
+1808 Good product
+1809 it works fine and meet our requirements
+1810 Because the company is losing focus on safety
+1811 The three product of Intel that we have rolled out have been extremely difficult and unreliable.  I am not at all satisfied with this product in comparison to the suite we left.
+1812 Your support is awful. When a customer needs to be transferred to some other area and the customer asks for the agent to stay on the line until the transfer is done BUT then you get hung up on... well that is very poor and leaves a bad impression.
+1813 extremely difficult to set up / update - not clear at all - documentation even worse
+1814 too difficult to use and does not work as expected
+1815 Because still not have much time working with products of Intel Security and until the moment is has behaved in a form acceptable.
+1816 Because I have liked the experience of working with this tool.
+1817 Product is very capable but requires support though people are trained and have experience.
+1818 Its a good product, that does what it is supposed to.
+1819 meets the minimum requirements of the company
+1820 It is good but it has much complexity in the Administration
+1821 We have had nothing but problems with this product.
+1822 because the ePO console is not intuitive, and success is based on learning how/what to do in that crazy interface.
+1823 very cumbersome to open.
+1824 Awkward and illogical interface
+1825 It does not work or if you can get it to work it takes (2) McAfee engineers and half a dozen telephone calls to get there.
+1826 Lient installation and the feedback of the EPO are not the client sometimes genuine status
+1827 Because the solution is very good.
+1828 ease of deployment and use
+1829 Even though some limitations product offers great protection for the information of the company.
+1830 Is a tool that offers edge protection against leaks of very effective provided that configured correctly.
+1831 Even though it's a tool that has small limitations, is very complete and offers a high level of management.
+1832 US WORKS WELL
+1833 see este page
+1834 Because it is almost certain that the would do, but not completely true
+1835 The product promises to do, it's not necessary to human interference. The Logic of the rules configuration is a bit complicated.
+1836 Lack of Product knowledge from Intel on how it will benefit an organisation especially how it connects with the rest of the products
+1837 See earlier answer.
+1838 During ePO upgrades we are experiencing lot of errors which causes to fail of upgrade
+1839 Ease of use could use improvement. ePO is not all that straight forward. For example: I needed to remove an agent but it wasn't intuitive where I could easily do so.
+1840 Already answered this question
+1841 Highly recommend but needs to be more user friendly when attempting to setup a deployment
+1842 Good but expensive
+1843 Ease
+1844 Difficult to use difficult to update node pcs
+1845 in view of the very bad experience so far.
+1846 heavy
+1847 Difficulty for new deployments
+1848 because last i checked you cant get it installed on windows 10 and everyone i know if finally buying new pc
+1849 because there are many other solutions in SIEM field out there today so it depends on specific needs of someone asking for this type of product... Each vendor for SIEM has it's plus and minus's
+1850 Because i'm support user all company maybe i'm view only one side not prepare cover communication more 1 used
+1851 See previous comments.  Ruined two computers trying to uninstall it.
+1852 Our experience with support and poor QA of testing upgrades
+1853 Flexibility of ePO; also the new look of the GUI is much easier to use
+1854 good product
+1855 Effective product
+1856 I won't point out positives and not negatives only give note.
+1857 2 reasons-not picking up old systems, server 2003 and xp-automated installation, only going to the agent, will separate tools
+1858 It is good, but needs a refresh and the tools to get data out of the system need to be dramatically improved.
+1859 Poor Execution and Wrong Selling
+1860 Reliability has been very good. Learning curve to get started is steep. Each ePO upgrade has been a disaster. Every upgrade (even point releases) has been problematic. The last upgrade to ePO 5.3 wrecked the installation and I had to completely re-in
+1861 I like products that actually remove and prevent security issues, not create slowness, browsing issues, compatibility issues.
+1862 Because I know the Administration I same I have configured
+1863 Good protection!
+1864 Mcafee VSE Artemis, cloud killing and, with the access protection policies, can provide the best for PC protection
+1865 I have worked with several SIEM's and this interface is by far the least intuitive.
+1866 Very difficult to setup and manage
+1867 Our implementation did not go well via timeline, performance issues on endpoints, incompatibilities with existing software.
+1868 even though the DoD only uses the DCM portion of DLP, the DLP overall can protect the business in so many ways.  Once set up initially it can managed to protect data from leakage via email or web browsers.
+1869 The odds would be high for the recommendation as my experience with this product has been very good.
+1870 Drive encryption is a two part installation that needs to be installed in a very particular way. This should be managed for me I shouldn't have to think about this.
+1871 Depends on the need, cost
+1872 The products do not follow the rule that is in the ePO, just install in half and when they install soon stop working
+1873 I don't give a higher rating because you need to have an easier to install, update; virus scanning on machines, in some cases, makes it almost impossible to work since it consumes a lot of resources.
+1874 See first question
+1875 Recommending security products to a friend or colleague is not something I normally do.
+1876 Over the last 2-3 years of using this tool, there have been no major issues or problems with it.
+1877 Can't recommend a product that is good at managing products that are very good.
+1878 No complies with the security adequate for the protection of virus
+1879 lack of compatibility
+1880 Because you do not list an 'eleven' or 'twelve' in this scale... (I am COMMITTED to ePO)
+1881 I gave this rating, because many are looking for a product that is easy to manage and that does not require to much time maintain.
+1882 Presets are consulting needs much too restrictive, if one has the product new front, has one and needs professional help, because normal operations of the product initially prevented (time tracking, PDA).
+1883 McAfee is awful.
+1884 Unreliable
+1885 The team is friendly and the integration of blogs of devices is fast... just has the problem that in the case of RMA a computer or disk takes on average a week... to be replaced
+1886 It's very complicated.
+1887 i have working experience & find it working ok
+1888 I likes the product & its features
+1889 Depends entirely on how tech savvy they are. If in a similar environment to our own I would recommend it
+1890 issues with 3-rd party software. bugs, unexplained CPU spikes
+1891 There are a log of changes and the latest version is not very intuitive to manage and configure. Some key requirements are also missing. But the DLP system does well the few items that we need it to perform
+1892 Bad customer service because my last experience.
+1893 curve database without any restrictions
+1894 read the other note
+1895 Are not particularly strongly
+1896 Also somewhat subtle ways, but there are choices as a centralized management solution is the ease of operation recommended can do that.
+1897 The aforementioned issues with IPv6.  IPv6 is a protocol that has been out for a number of years and is the future in IT.  Our orgaiization in the DoD is mandated to use this protocol and has been for over 10 years.
+1898 ePO is a frankenstein of multiple products and seems like it is just stitched together waiting to bust at the seems. It gets better with each new revision. DLP is a huge example of this. Now it runs natively on ePO which is great.
+1899 overall it is a good product. most issues we encounter are specific to modules being managed by ePO
+1900 product is good. Service especially TAC support is way behind like Cisco TAC.
+1901 It takes commitment to get it running properly and keep it stable and effective.
+1902 Since being moved over I have found EPO a lot harder to use than the old SaaS product.
+1903 Same reason as previously stated...
+1904 Too many bugs! Not that it make not work, but enough to be really my life difficult (like report last 30 days not cater for 28 days February).
+1905 It works when you don't hit any bug, which is more often than it should be. Also you never knew what will happen when you use new features, you might end up crashing the thing.
+1906 easy to install, works well with our hardware
+1907 Ease of use is excellent and interface is leagues beyond other tools. The major downside is that reporting isn't a robust as I would like. I can't create a customized report to the extent that I can with a product such as SCCM.
+1908 It is a solid product and it works. Drive is encrypted and safe from prying eyes if stolen or lost. I think it would be good to have more Opal drives supported for quick installation.
+1909 Product complicated to implement.
+1910 It's very hard to use, edit, and push updates out.
+1911 Poor product
+1912 It seems like a lot of the competition is catching up to EPO or offering features that are not available in EPO at least not available to the untrained eye
+1913 Higher if it were a colleague than a friend.
+1914 Depends on the size of the business.
+1915 it is a hit and mis. Especially with the configuration. So many options and no clear cut way of knowing what works and what conflicts.
+1916 Poor support experience / poor documentation / lack of knowledge on the product within support
+1917 Great tool.
+1918 Straight forward, ease of use and has plenty of available documentation and support
+1919 It is not administrator friendly. I find it difficult to find what should be the most common items to configure.
+1920 pro: easy custom parser creation con: flash technology the GUI is poorly customizable
+1921 Upgrades and new releases are difficult.
+1922 The Nitro solution is a killer product.
+1923 very hard to use
+1924 Excellent
+1925 I explained in the beginning.  It simply doesn't detect infections or does so too late.  It is obsolete.
+1926 Decent tool for integrating various things, but it misses some of the detail the individual tools have (such as the on demand scan logs from VSE that have more detail on the client than what is reported back to ePO)
+1927 I know the characteristics of the product and its management
+1928 I think it is a very stable solution
+1929 It is not much different then previous products we had.
+1930 I like the single pane of management, but admit it is not an easy product to manage. Relatively comlex.
+1931 Since the product seems to be a little overwhelming and inconsistent, I would not likely recommend it.
+1932 is a good product
+1933 no longer supported
+1934 At this point,  I wish I had not invested in the product.
+1935 cost
+1936 Easy to learn
+1937 I don't normally reocmmend these things
+1938 generally satisfied
+1939 I would never recommend anything from the company
+1940 The tool is in a BETA state and forced us to use without a minimum of tests. We are in serious trouble in the entire company and did nothing, is a product that we do not recommend to anyone, we're about to remove and hire another solution.
+1941 Because it is not part of McAfee anymore
+1942 As said, the demand for software and processing memory causes the company's productivity falls dramatically, inaconselhável.
+1943 Found no advantage
+1944 It seems to be doing fine
+1945 Very unstable, completely NOT intuitive, lags when signing in. Complete nightmare thus far.
+1946 Service almost never worked!
+1947 Excellent experience with the product
+1948 Good features, very powerful.
+1949 Satisfied
+1950 The product is good, all that needs to be improved is the use of performance of the hosts.
+1951 It is an excellent product
+1952 Compatibility issues with Windows 10. Its very difficult to get human support.
+1953 Who wants to pay for it additionally and then the India person gets smart with me, don't need your crap
+1954 Very good..
+1955 NDLP is a complicated quagmire of products, requirements and application.  Class Training is very limited in California and it is a difficult product to administer.
+1956 Nothing but trouble from the get go
+1957 good
+1958 good product
+1959 Due to the excellent performance.
+1960 The documentation makes it difficult for small business users to configure and manage the Endpoint Security and ePO Cloud products, but tech support has been a great help. On one issue (Endpoint Security Firewall - Adaptive Mode) tech support directl
+1961 By your development constantly
+1962 Can't you read !
+1963 Missing sync with AD
+1964 User friendly, reliable.
+1965 Suck product as it not working as it claim to be !!!
+1966 Prohibits users from working and causes issues within the environment.
+1967 short duration since
+1968 I am not knowledgeable enough to give a qualified recommendation yet. Though I have only made good experiences so far.
+1969 The support provided and continually meeting all the expected and new needs for our different internal customers.
+1970 Far superior based on experience using other products.
+1971 Features and performance
+1972 THIS WHOLE PROCESS HAS BEEN A PAIN.
+1973 Same reason I answered previously.
+1974 JA justified previously.
+1975 good product
+1976 BY EXPERIENCE
+1977 Meets most company requirements
+1978 The solution is stable and works relatively good.
+1979 Unreal licensing Meotodo.
+1980 Is a robust solution, but its optimization and control require considerable effort. Product update sometimes generate problems.
+1981 The ePo has an excellent surface, I found myself very quickly along.
+1982 Although not perfect, it's pretty close. ePO is a powerful platform for orchestrating and managing Intel Security/McAfee products.
+1983 Because it disconnects users from the network until it is uninstalled.
+1984 Managing multi-platform computers and options need improvement.
+1985 In environments where most of static files in low load during normal operation, protection is enabled
+1986 Because I do not see that at first glance what is most important. The AV is up to date, running it correctly there is a problem?
+1987 I purchased the product and used it for a month because I couldn't get support to help me resolve the issue. I now paid for a product I cant use.
+1988 our computers have slowed down CONSIDERABLY since installation of McAfee software
+1989 This very well made in a web approach, but resource-intensive, not delete registry or reacts easily with many records. The reports that come are unhelpful. Details of the threats need a better structure for understanding or to serve couple identify t
+1990 Is slow, not processed easily those filters. It is a web environment that need improvements.
+1991 Product is good.
+1992 Performance Concerns
+1993 Scanning slows down backups by ~100%.   This is an issue for some servers.
+1994 Very user friendly
+1995 It's a superior product.
+1996 The products we have fulfulled expectations
+1997 it has been hard for me to comprehend and effectively tailor for my use
+1998 Nothing is perfect.  ePO is probably Intel Security's best product that I have worked with.
+1999 The IPS itself is a very powerful tool but the NSM software has it's faults.   The interface can be un-intuitive at times and there are alot of false-assurances in the product if you don't know how it works in detail.   What I mean by that is there a
+2000 Antivirus Endpoint security, different version of small business seecurity has always worked the automatic updates upgrade.
+2001 It has repeatedly failed to identify ransomware and allowed it to proliferate.
+2002 There are several issues with the lack of detailed logging and data present in the product that I'd like to see resolved before I'd recommend this product to a colleague.
+2003 Why does not work
+2004 Because it's difficult to keep maintained.
+2005 No proper support
+2006 EPO is in general good but difficult to use
+2007 The web interface is slow and at times it doesn't even show the correct information I want. Finding how to do anything requires reading about it online, that is using it isn't intuitive at all.
+2008 Reliability and ease
+2009 Takes a little advanced configuration to work.
+2010 I have better experiences with other competitive products.
+2011 Removing from our environment because of bad performance.
+2012 Support Sucks
+2013 NEED MORE TIME TO EVALUATE.
+2014 positive experience
+2015 I'm user of McAfee and we are pleased with the level of security offered by the product.
+2016 Helpful and Friendly Service
+2017 Not satisfied with the service I received during my most recent interaction with tech support
+2018 My recent professional experience.
+2019 Is responsive (very small environment so that could change) and it is easy to manage / maintain systems that have the agent installed.  Am still trying to get reporting customized to meet our requirements, and finding that to be less intuitive than o
+2020 I am not so happy to recommend it
+2021 Many years of use
+2022 The result in terms of specific events that we have suffered
+2023 After implementing ENS in our environment of 1000+ devices, we have terrible performance issues for weeks. In the end, the advice from Intel support was to un-install and install VSE. Lack of appropriate integration testing with common enterprise des
+2024 rates high - not seen a 10 yet
+2025 Comparison with Symantec for EPO
+2026 I do not completely agree
+2027 same as prior
+2028 I have had an excellent experience.
+2029 I can't begin to associate the practical benefits of ATD with another friend or colleague's actual need or implementation.
+2030 THE CONSOLE LEAVES US A LITTLE CONFUSED THEN WONDERING TO RECOMMEND TO A FRIEND IS DIFFICULT. BUT NEEDED TO HAVE COURSES TO BETTER UNDERSTAND
+2031 MISSING COURSES SO WE CAN LEARN MORE ABOUT THE PRODUCT AND CAN OFFER CLEAR COLLEAGUES
+2032 EpO is easy to manage and good for corporate environment
+2033 The lack of attention and concern by the customer at the time of open cases of phialides of product and support.
+2034 because us has operated and protected
+2035 Depends on the size of the Corporation. Would recommend for small or medium businesses.
+2036 to prevent of leak of data of their companies by means of the port USB
+2037 A friend another product would use and same solution is used uniformly in the company.
+2038 We are not getting in time support
+2039 I have checked the quality of products and services provided
+2040 Bad product
+2041 Because Ncafee failed to comply with our request comod ebia be. Her we have a product purchased and do not notice your purchase is not compatible with WIN10, Mcafee should perform the uograde without additional cost to the company
+2042 It is a good product.
+2043 Complete and easy operation.
+2044 I like the organization and user interface. The product provides the knowledge of our environment that we need.
+2045 We have fast computers and high speed connections. Even with that, ePO is very slow and requires moving from screen to screen again and again to accomplish simple things. These screen changes are unacceptably slow. We do not see this poor response fr
+2046 Only for larger organizations, due to cost.
+2047 It doesn't exist anymore
+2048 Reasons noted in previous question. Why do we need an additional server just to do reporting and updating ePO is a virtual nightmare.
+2049 I know Jonathan only in the business environment, and not in private. I miss the transparency on the individual products. I wanted just a virus scanner, I do not know what is available on each product in the package. Also if I for us right have chose
+2050 McAfee Encryption has caused us A LOT of headaches.
+2051 good product
+2052 ATD development has fallen far behind the competitors.  Product isn't stable and is extremely difficult to deploy correctly.
+2053 There were problems with quality, had to change
+2054 HDLP console requires active X components, this is tricky on the sever platform
+2055 Easy to install but did not try all features and new to it
+2056 recently we are using the product.
+2057 product and service were below expectations
+2058 Very slow
+2059 It is complicated for no reason...
+2060 You need to work on the product, after the update I have it does not work and there is no access to it and how to fix the problem I do not know. In such cases, do not give advice.
+2061 Because we are not trained on this product. It was given to us and we don't actually know what is happening etc. That is rather insufficient by the financial informatics.
+2062 Moving to the cloud has been a pain in the ass.
+2063 Learning curve
+2064 Monitoring is good; however, setup is not intuitive.  The documentation is poor and does not appear to be effectively updated for new versions.
+2065 the product exceeds expectations
+2066 AV is one piece of a broader security solution.  By itself, it's limited in capability with todays threats.
+2067 Reliable and easy to manage.
+2068 Weak on reports. Unfriendly.
+2069 Easy to manage/administrate .
+2070 I am satisfied with the product and the future McAfee is evolving to
+2071 It is a good product
+2072 Declining quality of product technical support.
+2073 For the poor support we've received.
+2074 In particular no
+2075 Reboots are required to install, uninstall, or update and this gets cumbersome for large environments
+2076 It has helped stop intrusions in our network that may have been overlooked by others.
+2077 Historically, ePO has been solid and dependable.  We trust that will continue going forward.
+2078 Installation problems never solved. Spent hours dealing with support.
+2079 We have issues but not getting proper support to fix it
+2080 Very stable and good platform
+2081 Good and stable product
+2082 That is very practical
+2083 need more improvement
+2084 themes of support of the product inadequate and delayed
+2085 The management console is still somewhat complex to manage
+2086 With the DLP have much false positive, it have scaling to the support direct from McAfee and never could even give us a diagnosis of as is could tune. They lack much preparation in this tool. To us as administrators of this hrramienta in the company
+2087 by the management and gui
+2088 Is a great console for Administration.
+2089 It's popular and easy to purchase.
+2090 Because the product seems good, but experience with the partner that has made us the implementation is terrible.
+2091 Lack of effectiveness in cases that other products if they detect and solve.
+2092 The original Saas we used worked very well and would have stayed with it, but when we went to renew it this year we were forced to go to the new endpoint protection package with none of us were familiar with or ready to deal with and we had no idea
